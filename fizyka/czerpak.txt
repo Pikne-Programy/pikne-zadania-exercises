@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Czerpak
+---
+Płynąc w górę rzeki wioślarz upuścił pod mostem, nie zauważywszy tego czerpak do wody.
+Po t=15min spostrzegł zgubę i zawrócił doganiając czerpak s=[500;800]m poniżej mostu.
+Oblicz prędkość rzeki v=?m/s.
+---
+t=t*60
+v=s/(2*t)

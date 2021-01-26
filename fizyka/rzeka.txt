@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Rzeka
+# img: rzeka.jpg
+---
+Na przeciwległych brzegach rzeki o nurcie prędkości v_1=[0.5;0.8]m/s znajdują się dwie przystanie.
+Łódka płynie z jednej do drugiej przystani po linii prostej. Prędkość łódki względem wody wynosi v_2=[1;3]m/s.
+Oblicz, z jaką prędkością v_w=?m/s łódka zbliża się do brzegu.
+---
+v_w=sqrt(v_2^2-v_1^2)

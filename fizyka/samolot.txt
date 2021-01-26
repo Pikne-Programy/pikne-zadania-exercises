@@ -1,0 +1,9 @@
+---
+type: EqEx
+name: Samolot
+# img: samolot.jpg
+---
+Samolot po starcie wznosił się w powietrze pod kątem alfa=[0.3;0.5]rad do poziomu z prędkością v=[50;70]m/s.
+Jaką wysokość h=?m osiągnie ten samolot po czasie t=[10;20]s?
+---
+h=sinr(alfa)*v*t

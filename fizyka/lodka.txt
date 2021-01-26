@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Łódka
+---
+Po rzece płynie łódka, która skierowana jest cały czas prostopadle do nurtu.
+Droga łódki względem brzegu po przepłynięciu rzeki wynosi l=[200;400]m,
+droga gałązki płynącej z nurtem w tym samym czasie wynosi s=[180;200]m.
+Ile wynosi szerokość rzeki d=?m?
+---
+d=sqrt(l^2-s^2)

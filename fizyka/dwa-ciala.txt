@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Dwa ciała
+# img: dwaciala.jpg
+---
+W pewnej chwili ciało \(A\) porusza się w kierunku ciała \(B\) ze stałą prędkością v_1=[2;3]m/s po linii prostej, natomiast
+ciało \(B\) porusza się w kierunku ciała \(C\) ze stałą prędkością v_2=[3;4]m/s. Odległość \(AB\) jest równa l=[30;50]m.
+Prędkość ciała \(A\) względem ciała \(B\) wynosi \(v_p\) i tworzy z kierunkiem \(AB\) kąt beta=[30;40]deg.
+W jakiej najmniejszej odległości d=?m od siebie znajdą się ciała?
+---
+d=l*sin(beta)

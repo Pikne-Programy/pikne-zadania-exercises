@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Wektory
+# img: wektory.jpg
+---
+Na rysunku pokazano wektory prędkości dwóch ciał: \(A\) i \(B\).
+Oblicz współrzędne i wartość prędkości względnej ciała \(B\) względem ciała \(A\).
+Podaj wartość prędkości względnej v_w=?m/s.
+---
+v_w=6

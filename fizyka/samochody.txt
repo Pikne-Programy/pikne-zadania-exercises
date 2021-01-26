@@ -1,0 +1,9 @@
+---
+type: EqEx
+name: Samochody
+# img: samochody.jpg
+---
+Wzdłuż osi \(x\) i \(y\) poruszają się ruchem jednostajnym samochody z prędkościami v_1=[10;20]m/s oraz v_2=[20;30]m/s.
+Oblicz ich prędkość względną v_3=?m/s.
+---
+v_3=sqrt(v_1^2+v_2^2)
