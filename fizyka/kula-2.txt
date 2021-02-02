@@ -1,0 +1,13 @@
+---
+type: EqEx
+name: Kula 2
+# img: kula.bmp
+---
+Kula o promieniu r=[2;4]cm toczy się jednostajnie bez poślizgu po
+dwóch równoległych deseczkach znajdujących się w odległości d=[3;4]cm.
+W ciągu t=[1;3]s kulka przebyła drogę s=[100;140]cm. Z jakimi
+prędkościami liniowymi v=?cm/s poruszają się punkty \(A\) i \(B\)?
+---
+v'=s/t
+r'=sqrt(r^2-(d/2)^2)
+v=v'*r/r'

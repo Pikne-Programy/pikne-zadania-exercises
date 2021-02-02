@@ -3,9 +3,10 @@ type: EqEx
 name: Spotkanie
 # img: spotkanie2.jpg
 ---
-Człowiek pracujący w polu w punkcie \(A\) zobaczył idącego szosą sąsiada w punkcie \(B\).
-Ruszył mu na spotkanie idąc do punktu \(C\) szosy z prędkością v_1=[5;8]m/s.
-Z jaką prędkością v_2=?m/s szedł sąsiad, jeżeli obydwaj doszli do punktu \(C\) jednocześnie?
+Człowiek pracujący w polu w punkcie \(A\) zobaczył idącego szosą
+sąsiada w punkcie \(B\). Ruszył mu na spotkanie idąc do punktu \(C\)
+szosy z prędkością v_1=[5;8]m/s. Z jaką prędkością v_2=?m/s szedł
+sąsiad, jeżeli obydwaj doszli do punktu \(C\) jednocześnie?
 Kąt alfa=[30;40]deg, a beta=[40;60]deg.
 ---
 v_2=v_1*sin(alfa)/sin(beta)

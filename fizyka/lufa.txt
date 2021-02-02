@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Lufa
+# img: lufa.jpg
+---
+Pocisk ma w chwili wylotu z lufy prędkość v=[700;900]m/s. Ile czasu t=?s
+trwał przelot pocisku przez lufę, jeżeli długość lufy wynosi s=[80;110]cm,
+a ruch pocisku w lufie przyjąć za jednostajnie zmienny?
+---
+t=(2*s/100)/v

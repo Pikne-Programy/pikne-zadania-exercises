@@ -1,0 +1,9 @@
+---
+type: EqEx
+name: Wskazówki 1
+---
+Porównaj prędkości liniowe wskazówek zegara, jeżeli minutowa ma
+długość r_m=[5;20]cm, natomiast wskazówka godzinowa ma długość o k=2cm
+mniejszą. Oblicz stosunek x=? dla \(x=\frac{v_m}{v_g}\).
+---
+x=r_m*12/(r_m-k)

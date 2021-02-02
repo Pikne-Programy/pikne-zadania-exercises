@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Ciało 1
+---
+W ciągu pierwszych 3 sekund od chwili rozpoczęcia ruchu jednostajnie
+przyspieszonego ciało przebyło drogę s=[20;30]m. Po jakim czasie t=?s
+osiągnie prędkość v=[90;100]m/s?
+---
+a=2*s/9
+t=v/a

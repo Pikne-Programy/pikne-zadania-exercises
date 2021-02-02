@@ -1,0 +1,9 @@
+---
+type: EqEx
+name: Krążek hokejowy
+---
+Krążek hokejowy o prędkości początkowej v_1=[29;30]m/s przebył s=[30;40]m
+i uderzył w bandę po czasie t=[1.4;2]s. Z jaką prędkością v_2=?m/s
+uderzył w bandę, jeżeli jego ruch był jednostajnie opóźniony?
+---
+v_2=2*s/t-v_1

@@ -3,7 +3,8 @@ type: EqEx
 name: Statek
 # img: statek.jpg
 ---
-Statek płynie z portu \(A\) do portu \(B\) z prądem rzeki w czasie t_1=[6;10]h, a czas rejsu powrotnego wynosi t_2=[14;18]h.
+Statek płynie z portu \(A\) do portu \(B\) z prądem rzeki w czasie
+t_1=[6;10]h, a czas rejsu powrotnego wynosi t_2=[14;18]h.
 Ile czasu t_3=?h płynęłaby tratwa z portu \(A\) do portu \(B\)?
 ---
 t_3=(2*t_1*t_2)/(t_2-t_1)

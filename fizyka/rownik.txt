@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Równik
+---
+Oblicz prędkość v=?m/s punktów na równiku, wiedząc, że promień Ziemi do równika
+wynosi r=[6370;6400]km, a czas obrotu Ziemi wokół własnej osi wynosi T=24h.
+---
+PI=3.141592653589793
+r=r*1000
+T=T*3600
+v=2*PI*r/T

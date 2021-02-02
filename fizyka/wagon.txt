@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Wagon
+# img: wagon.jpg
+---
+Na dachu wagonu leży obciążnik o masie m_1=[20;30]g. Jest on połączony
+z drugim obciążnikiem o masie m_2=[1;10]g. Z jakim przyspieszeniem a=?m/s^2
+jedzie wagon, jeśli obciążniki nie poruszają się względem niego? Opory
+ruchu można pominąć. Przyjmij g=[9;10]m/s^2.
+---
+a=((m_2/1000)*g)/(m_1/1000)

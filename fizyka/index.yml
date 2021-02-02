@@ -1,16 +1,50 @@
- - kinematyka:
-    - mechanika:
-       - pociagi-dwa
-       - czerpak
-       - lodka
-       # - spotkanie
-       - tramwaj
-       # - samochody
-       # - dwa-ciala
-       # - wektory
-       # - most
-       # - samolot
-       # - statek
-       # - zawody
-       # - rzeka
-       - motorowka
+- kinematyka:
+  - mechanika:
+    - pociagi-dwa
+    - czerpak
+    - lodka
+    # - spotkanie
+    - tramwaj
+    # - samochody
+    # - dwa-ciala
+    # - wektory
+    # - most
+    # - samolot
+    # - statek
+    # - zawody
+    # - rzeka
+    - motorowka
+    # - kajak
+    # - przystanie
+    - biegacz
+    # - pocisk
+    # - lufa
+    - samochod
+    - krazek-hokejowy
+    # - kula-1
+    - wysokosc
+    # - studnia
+    - cialo-1
+    - motocykl
+    - ciagnik
+    - karuzela
+    - kamien
+    - autobus
+    - cialo-2
+    - rownik
+    - tarcza
+    - wskazowki-1
+    # - przekladnia
+    ## - kula-2
+    - pret
+    - wskazowki-2
+  - dynamika:
+    # - bloczki-1
+    # - bloczki-2
+    # - bloczki-3
+    # - bloczki-4
+    # - pojedynczy-bloczek-1
+    # - pojedynczy-bloczek-2
+    # - wagon
+    - sanki
+    - droga-hamowania

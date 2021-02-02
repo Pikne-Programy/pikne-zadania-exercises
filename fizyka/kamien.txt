@@ -1,0 +1,9 @@
+---
+type: EqEx
+name: Kamień
+---
+Kamień szlifierski o promieniu r=[19;21]cm wykonuje f=[1199;1201]Hz.
+Z jaką prędkością v=?m/s wylatują iskry podczas szlifowania przedmiotów?
+---
+PI=3.141592653589793
+v=2*PI*r*f/100

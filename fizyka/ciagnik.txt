@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Ciągnik
+---
+Ciągnik gąsienicowy wykonuje zwrot w ten sposób, że jedna z gąsienic
+porusza się z inną prędkością niż druga. Oblicz promień wewnętrzny
+skrętu ciągnika r=?m, którego jedna gąsienica porusza się z prędkością
+v_1=[10;13]km/h, a druga z prędkością v_2=[15;18]km/h.
+Odległość między gąsienicami wynosi l=[2;4]m.
+---
+r=v_1*l/(v_2-v_1)

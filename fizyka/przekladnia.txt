@@ -1,0 +1,13 @@
+---
+type: EqEx
+name: Przekładnia
+# img: przekladnia.bmp
+---
+Przekładnia rowerowa połączona jest z trybikiem za pomocą łańcucha.
+Z jaką prędkością v=?m/s jedzie rower, jeżeli koło zębate przekładni
+o N_1=52 zębach obracane jest z częstotliwością f=[1,5;2,5]Hz. Koło
+trybiku ma N_2=20 zębów, a promień koła z oponą wynosi r=[33;39]cm.
+Przyjmij, że pi=3.14.
+---
+r=r/100
+v=2*pi*r*f*(N_1/N_2)

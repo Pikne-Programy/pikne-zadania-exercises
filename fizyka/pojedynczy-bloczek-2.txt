@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Pojedynczy bloczek 2
+# img: bloczek2_24444.jpg
+---
+Oblicz przyśpieszenie kątowe epsilon=?rad/s^2 bloczka o masie
+m_3=[2;10]kg i promieniu r=[0.3;0.9]m. Masa klocków wynosi kolejno
+m_1=[4;8]kg i m_2=[8.4;12]kg.
+Przyjmij przyspieszenie ziemskie równe g=[9;10]m/s^2.
+---
+epsilon=g*r*(m_2-m_1)/((0.5*m_3+m_2+m_1)*r^2)

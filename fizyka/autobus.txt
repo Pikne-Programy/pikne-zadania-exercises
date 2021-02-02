@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Autobus
+---
+Promień kół autobusu jadącego z prędkością v=[70;72]km/h wynosi
+r=[39;41]cm. Ile razy na sekundę f=?Hz obracają się koła tego autobusu?
+---
+PI=3.141592653589793
+v=v*1000/3600
+f=v/(2*PI*r*0.01)

@@ -1,0 +1,9 @@
+---
+type: EqEx
+name: Ciało 2
+---
+Oblicz wartość przyspieszenia dośrodkowego a=?m/s^2 ciała poruszającego
+się po okręgu o promieniu r=[0.5;2]m gdy okres wynosi T=[0.5;2]s.
+---
+PI=3.141592653589793
+a=r*(2*PI/T)^2

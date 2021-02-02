@@ -1,0 +1,9 @@
+---
+type: EqEx
+name: Karuzela
+---
+Oblicz czas trwania jednego obrotu karuzeli T=?s, której krzesełka odległe
+o r=[5;7]m od osi obrotu poruszają się z prędkością v=[3;4]m/s.
+---
+PI=3.141592653589793
+T=2*PI*r/v

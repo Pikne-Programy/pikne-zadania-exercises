@@ -3,8 +3,9 @@ type: EqEx
 name: Most
 # img: most.jpg
 ---
-Pociąg towarowy wjechał na most o długości l=[700;900]m ze stałą prędkością v=[4;6]m/s.
-Od chwili wjechania lokomotywy do chwili zjechania ostatniego wagonu upłynął czas t=[300;500]s.
+Pociąg towarowy wjechał na most o długości l=[700;900]m ze stałą
+prędkością v=[4;6]m/s. Od chwili wjechania lokomotywy do chwili
+zjechania ostatniego wagonu upłynął czas t=[300;500]s.
 Oblicz długość pociągu d=?m.
 ---
 d=(v*t)-l

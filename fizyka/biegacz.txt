@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Biegacz
+---
+Biegacz pokonuje dystans d=100m w czasie t=10s. W pierwszej fazie
+biegu tzn. s_1=[10;20]m rozpędza się do prędkości \(v_max\) ruchem
+jednostajnie przyspieszonym. Pozostałą część trasy s_2=?m biegnie już
+ruchem jednostajnym z maksymalną prędkością \(v_max\). Oblicz maksymalną
+prędkość biegacza v_max=?km/h.
+---
+s_2=d-s_1
+v_max=(2*s_1+s_2)/t*3600/1000

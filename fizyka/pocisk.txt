@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Pocisk
+# img: pocisk.jpg
+---
+Pocisk poruszający się z prędkością v=[400;600]m/s wbija się w deskę
+na głębokość s=[5;20]cm. Zakładając, że ruch ciała w desce jest
+jednostajnie opóźniony, oblicz opóźnienie a=?m/s^2 tego ruchu.
+---
+a=v^2/(2*s/100)

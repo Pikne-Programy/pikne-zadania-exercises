@@ -1,0 +1,8 @@
+---
+type: EqEx
+name: Droga hamowania
+---
+Oszacuj współczynnik tarcia f=? opon o asfalt, jeżeli samochód hamuje
+z v_1=[26.5;28.5]m/s do v_2=0m/s w ciągu t=[15;20]s. Przyjmij g=[9.5;10.5]m/s^2.
+---
+f=(v_1-v_2)/(t*g)

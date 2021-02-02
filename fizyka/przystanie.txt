@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Przystanie
+# img: statek.jpg
+---
+Dwie przystanie na rzece znajdują się w odległości s=[30;50]m.
+Prędkość nurtu rzeki wynosi v_n=[2;5]m/s, a prędkość łódki względem
+wody v=[10;15]m/s. Ile czasu t=?s łódka potrzebowała na przepłynięcie
+z przystani \(A\) do przystani \(B\) i z powrotem?
+---
+t=(s/(v+v_n))+(s/(v-v_n))

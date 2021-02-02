@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Kajak
+# img: kajak.jpg
+---
+Jaki kąt alfa=?deg powinna tworzyć oś symetrii kajaka płynącego względem wody
+z prędkością v_1=[3;5]m/s z linią brzegu rzeki płynącej z prędkością
+v_2=[1;2.9]m/s, aby kajak płynął prostopadle do brzegu?
+---
+alfa=acos(v_2/v_1)

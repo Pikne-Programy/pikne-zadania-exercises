@@ -1,0 +1,9 @@
+---
+type: EqEx
+name: Wysokość
+---
+Ciało rzucono do góry z prędkością v=[10;15]m/s.
+Po jakim czasie t=?s osiągnie wysokość h=[2;4]m?
+---
+pd=sqrt(v^2-20*h)
+t=(v-pd)/10

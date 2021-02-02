@@ -1,0 +1,8 @@
+---
+type: EqEx
+name: Wskazówki 2
+---
+Wskazówka minutowa zegara i wskazówka godzinowa spotkały się w jednym
+miejscu na tarczy zegara. Oblicz po jakim czasie t=?s spotkają się znowu.
+---
+t=39008

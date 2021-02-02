@@ -2,9 +2,11 @@
 type: EqEx
 name: Tramwaj
 ---
-Krople deszczu pozostawiają na szybach stojącego tramwaju ślady zacieków nachylone pod kątem alfa=[20;30]deg do pionu.
-W czasie jazdy tramwaju z prędkością v=[30;40]km/h zgodnej z kierunkiem wiatru deszcz pozostawia na szybach pionowe slady.
-Podaj prędkość kropel deszczu v_k=?m/s przy bezwietrznej pogodzie.
+Krople deszczu pozostawiają na szybach stojącego tramwaju ślady
+zacieków nachylone pod kątem alfa=[20;30]deg do pionu. W czasie
+jazdy tramwaju z prędkością v=[30;40]km/h zgodnej z kierunkiem
+wiatru, deszcz pozostawia na szybach pionowe ślady. Podaj prędkość
+kropel deszczu v_k=?m/s przy bezwietrznej pogodzie.
 ---
 v=v*1000/3600
 v_k=v/tg(alfa)

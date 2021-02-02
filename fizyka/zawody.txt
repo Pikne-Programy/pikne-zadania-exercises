@@ -3,7 +3,8 @@ type: EqEx
 name: Zawody
 # img: zawody.jpg
 ---
-Podczas zawodów na rzece ślizgacz przepłynął odległość między mostami równą s=[6400;6520]m.
-W czasie t_1=[160;180]s z prądem rzeki, a pod prąd w czasie o t_2=[20;50]s dłuższym. Oblicz prędkość rzeki v=?m/s.
+Podczas zawodów na rzece ślizgacz przepłynął odległość między mostami
+równą s=[6400;6520]m. W czasie t_1=[160;180]s z prądem rzeki, a pod
+prąd w czasie o t_2=[20;50]s dłuższym. Oblicz prędkość rzeki v=?m/s.
 ---
 v=(s*t_2)/(2*t_1*(t_1+t_2))

@@ -1,0 +1,9 @@
+---
+type: EqEx
+name: Motocykl
+---
+Motocykl przebył ruchem jednostajnie przyspieszonym, bez prędkości
+początkowej, drogę s=[144;160]m i osiągnął prędkość v=[44;48]m/s.
+Ile czasu t=?s trwał jego ruch?
+---
+t=2*s/v

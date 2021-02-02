@@ -1,0 +1,9 @@
+---
+type: EqEx
+name: Bloczki 2
+# img: bloczki2_nowe.jpg
+---
+Oblicz siłę napięcia nici N=?N w poniższym układzie. Przyjmij, że m_1=[1;6]kg,
+m_2=[1;6]kg, m_3=[1;6]kg oraz g=[9.5;10.5]m/s^2.
+---
+N=(2*g*m_1*m_2*m_3)/(m_2*m_3+m_1*m_3+4*m_1*m_2)

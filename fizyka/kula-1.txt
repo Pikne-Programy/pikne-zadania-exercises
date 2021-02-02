@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Kula 1
+# img: kula.jpg
+---
+Kuli toczącej się po podłodze nadano prędkość początkową v=[2;5]m/s.
+Kula toczy się ruchem jednostajnie opóźnionym z opóźnieniem a=[0.2;0.3]m/s^2.
+Jaką drogę s=?m przebędzie kula do chwili zatrzymania się?
+---
+s=v^2/(2*a1)
