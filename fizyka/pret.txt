@@ -7,5 +7,5 @@ dwie kulki o jednakowych masach. Kulki poruszają się z różnymi
 prędkościami v_1=[1.8;2.2]m/s i v_2=[2.3;3]m/s w tym samym kierunku
 i tym samym zwrotem. Oblicz prędkość kątową omega=?rad/s środka pręta.
 ---
-r=(v_1*l)/(v_2-v_2)/100
-omega=v/r
+r=(v_1*l)/(v_2-v_1)/100
+omega=v_1/r
