@@ -1,7 +1,7 @@
 ---
 type: EqEx
 name: Przekładnia
-# img: przekladnia.bmp
+img: przekladnia.jpg
 ---
 Przekładnia rowerowa połączona jest z trybikiem za pomocą łańcucha.
 Z jaką prędkością v=?m/s jedzie rower, jeżeli koło zębate przekładni

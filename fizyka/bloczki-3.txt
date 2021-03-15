@@ -1,7 +1,7 @@
 ---
 type: EqEx
 name: Bloczki 3
-# img: bloczki3.jpg
+img: bloczki-3.jpg
 ---
 Oblicz przyspieszenie a=?m/s^2 układu przedstawionego na rysunku.
 Przyjmij, że m_1=[1;4]kg, m_2=[6;8]kg oraz g=[9.5;10.5]m/s^2.

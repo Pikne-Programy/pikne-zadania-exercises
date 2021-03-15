@@ -1,7 +1,7 @@
 ---
 type: EqEx
 name: Most
-# img: most.jpg
+img: most.jpg
 ---
 Pociąg towarowy wjechał na most o długości l=[700;900]m ze stałą
 prędkością v=[4;6]m/s. Od chwili wjechania lokomotywy do chwili

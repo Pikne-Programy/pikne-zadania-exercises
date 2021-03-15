@@ -1,7 +1,7 @@
 ---
 type: EqEx
 name: Spotkanie
-# img: spotkanie2.jpg
+img: spotkanie.jpg
 ---
 Człowiek pracujący w polu w punkcie \(A\) zobaczył idącego szosą
 sąsiada w punkcie \(B\). Ruszył mu na spotkanie idąc do punktu \(C\)

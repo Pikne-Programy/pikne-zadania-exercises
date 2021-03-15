@@ -1,7 +1,7 @@
 ---
 type: EqEx
 name: Przystanie
-# img: statek.jpg
+img: statek&przystanie.jpg
 ---
 Dwie przystanie na rzece znajdują się w odległości s=[30;50]m.
 Prędkość nurtu rzeki wynosi v_n=[2;5]m/s, a prędkość łódki względem

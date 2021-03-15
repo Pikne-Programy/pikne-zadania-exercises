@@ -1,7 +1,7 @@
 ---
 type: EqEx
 name: Kula 2
-# img: kula.bmp
+img: kula-2.jpg
 ---
 Kula o promieniu r=[2;4]cm toczy się jednostajnie bez poślizgu po
 dwóch równoległych deseczkach znajdujących się w odległości d=[3;4]cm.

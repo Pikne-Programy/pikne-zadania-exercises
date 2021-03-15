@@ -1,7 +1,7 @@
 ---
 type: EqEx
 name: Wagon
-# img: wagon.jpg
+img: wagon.jpg
 ---
 Na dachu wagonu leży obciążnik o masie m_1=[20;30]g. Jest on połączony
 z drugim obciążnikiem o masie m_2=[1;10]g. Z jakim przyspieszeniem a=?m/s^2

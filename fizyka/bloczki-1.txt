@@ -1,7 +1,7 @@
 ---
 type: EqEx
 name: Bloczki 1
-# img: bloczki.jpg
+img: bloczki-1.jpg
 ---
 Oblicz przyspieszenie a=?m/s^2 ciała o masie \(m_2\) w układzie przedstawionym na
 rysunku. Obliczenia przeprowadź dla następujących danych: m_1=[1;5]kg, m_2=[1;10]kg.

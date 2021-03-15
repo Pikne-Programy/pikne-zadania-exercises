@@ -1,7 +1,7 @@
 ---
 type: EqEx
 name: Pocisk
-# img: pocisk.jpg
+img: pocisk.jpg
 ---
 Pocisk poruszający się z prędkością v=[400;600]m/s wbija się w deskę
 na głębokość s=[5;20]cm. Zakładając, że ruch ciała w desce jest

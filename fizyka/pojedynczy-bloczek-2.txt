@@ -1,7 +1,7 @@
 ---
 type: EqEx
 name: Pojedynczy bloczek 2
-# img: bloczek2_24444.jpg
+img: pojedynczy-bloczek-2.jpg
 ---
 Oblicz przyśpieszenie kątowe epsilon=?rad/s^2 bloczka o masie
 m_3=[2;10]kg i promieniu r=[0.3;0.9]m. Masa klocków wynosi kolejno

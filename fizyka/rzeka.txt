@@ -1,7 +1,7 @@
 ---
 type: EqEx
 name: Rzeka
-# img: rzeka.jpg
+img: rzeka.jpg
 ---
 Na przeciwległych brzegach rzeki o nurcie prędkości v_1=[0.5;0.8]m/s
 znajdują się dwie przystanie. Łódka płynie z jednej do drugiej

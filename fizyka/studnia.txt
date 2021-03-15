@@ -1,7 +1,7 @@
 ---
 type: EqEx
 name: Studnia
-# img: studnia.jpg
+img: studnia.jpg
 ---
 Do studni wrzucono kamyk. Plusk wody można było usłyszeć po czasie
 t=[5;7]s. Oblicz głębokość studni H=?m. Przyjmij, że przyspieszenie

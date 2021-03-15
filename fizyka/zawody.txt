@@ -1,7 +1,7 @@
 ---
 type: EqEx
 name: Zawody
-# img: zawody.jpg
+img: zawody.jpg
 ---
 Podczas zawodów na rzece ślizgacz przepłynął odległość między mostami
 równą s=[6400;6520]m. W czasie t_1=[160;180]s z prądem rzeki, a pod
