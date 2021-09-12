@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Kat Brewstera
+---
+Kat graniczny dla całkowitego wewnetrznego odbicia dla pewnego osrodka
+wynosi a1 = [45;55] stopni. Oblicz kat Brewstera dla tego osrodka.
+
+a1 = a1*Math.PI/180
+n1 = 1/Math.sin(a1)
+b1 = Math.atan(n1)
+b1 = b1*180/Math.PI
+---

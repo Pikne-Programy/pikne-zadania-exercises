@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Stosunek promieni
+---
+Oblicz stosunek promieni, jakie zatoczą cząstka alfa i proton, jeżeli
+ich energie są równe, a cząstki wpadają w to samo pole magnetyczne
+prostopadle do wektora indukcji magnetycznej B1.
+
+x1 = 1
+---

@@ -1,0 +1,13 @@
+---
+type: EqEx
+name: Różnica potencjałów protonu
+---
+Proton, po przejściu w próżni różnicy potencjałów U1 = [500;510]V, wpada
+w jednorodne pole magentyczne, prostopadle do linii tego pola i
+zatacza okrąg o promieniu r1 = [0.2;0.4]m. Oblicz wartośc indukcji pola
+magnetycznego B1.
+
+mp = 1.67e-27
+e1 = 1.6e-19
+B1 = 1/(r1*math.sqrt(2*U1*mp/e1))
+---

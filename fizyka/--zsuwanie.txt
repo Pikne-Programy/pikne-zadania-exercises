@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Zsuwanie
+img: luk.jpg
+---
+Jaką prędkość ma ciało A zsuwające się bez tarcia po łuku o promieniu
+R1 = [2;6] m jeżeli kąt, jaki tworzy z poziomem wynosi fi = [20;45]
+stopni? Przyjmij g = 10 m/s^2.
+
+v1 = Math.sqrt(2*10*R1*Math.sin(fi*Math.PI/180))
+---

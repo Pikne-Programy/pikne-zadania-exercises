@@ -1,0 +1,9 @@
+---
+type: EqEx
+name: Jeden dźwięk
+---
+Oblicz natężenie dźwięku, jeżeli poziom natęzenia wynosi
+L1 = [30;100]dB.
+
+I1 = 1e-12*Math.pow(10,(L1/10))
+---

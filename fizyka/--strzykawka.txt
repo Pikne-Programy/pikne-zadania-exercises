@@ -1,0 +1,16 @@
+---
+type: EqEx
+name: Strzykawka
+---
+ Strzykawke lekarską ze szczelnie zatkanym wylotem o objętości
+V1 = [20;30] cm^3 zanurzono do wody na głębokość h1 = [3;10] m. O ile
+przesunie się tłok strzykawki, jeżeli przekrój poprzeczny tłoka
+S1 = [1;2] cm^2. Temperatura wody i powietrza była jednakowa a ciśnienie
+atmosferyczne wynosi pa = 1100 hPa. Tarcie tłoka o strzykawkę pomijamy.
+
+V1 = V1*1e-6
+pa = 110000
+S1 = S1*1e-4
+V2 = pa*V1/(pa+1000*10*h1)
+x1 = (V1-V2)/S1
+---

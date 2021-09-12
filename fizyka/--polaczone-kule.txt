@@ -1,0 +1,15 @@
+---
+type: EqEx
+name: Połączone kule
+---
+Dwie kule o promieniach r1 = [2;40] cm i r2 = [7;77] cm naładowano
+ładunkami Q1 = [2;5]&#181;C i Q2 = [3;7]&#181;C, nastepnie kule te
+połączono cienkim drucikiem. Oblicz potencjał kul po połączeniu.
+
+k1 = 9e9
+Q1 = Q1*1e-6
+Q2 = Q2*1e-6
+r1 = r1*1e-2
+r2 = r2*1e-2
+V1 = k1*(Q1+Q2)/(r1+r2)
+---

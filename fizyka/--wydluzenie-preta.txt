@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Wydłużenie pręta
+---
+Oblicz względne wydłużenie pręta aluminiowego długości l1 = [3;5]m
+wywołane działaniem sił rozciągajacych takich, że gdyby działała tylko
+jedna z sił, to pręt poruszałby się z przyspieszeniem a1 = [10;12]m/s^2.
+Gęstość aluminium wynosi 2700 kg/m^3, a moduł Younga E1 = [7e10;8e10]
+
+d1 = 2700
+l2 = (d1*l1*a1)/E1
+---

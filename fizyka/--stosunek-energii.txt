@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Stosunek energii
+---
+Stosunek energii potencjalnej dwu ciał liczonej od powierzchni ziemi
+wynosi n1 = [2.0;24.0], a ich mas k1 = [2.0;20.0]. Ile razy jedno ciało
+znajduje się wyżej od drugiego?
+
+h1 = n1/k1
+---

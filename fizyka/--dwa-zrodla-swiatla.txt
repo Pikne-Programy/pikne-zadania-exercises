@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Dwa źródła światła
+---
+Odległość między dwoma punktowymi źródłami światła wynosi
+l1 = [40;60]cm. Gdzie między nimi należy umieścić cienką soczewkę
+skupiającą o ogniskowej f1 = [10;20]cm, aby obrazy obu źródeł powstały w
+tym samym punkcie?
+
+wy = l1/2+Math.sqrt((l1/2)*(l1/2)-(f1*l1)/2)
+---

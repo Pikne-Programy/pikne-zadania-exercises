@@ -1,0 +1,15 @@
+---
+type: EqEx
+name: Pionowa rurka
+---
+Pionowa rurka, zasklepiona u dołu, zawiera słupek rtęci o wysokości
+h1 = [10;20] cm zamykający słupek powietrza wysokości H1 = [300;350] mm.
+Temp otoczenia wynosi t1 = [30;40] st. C . O  ile obniży się poziom
+rtęci w rurce, gdy temp. zmniejszy się do t2 = [5;25] st. C?
+
+h2 = h1/100
+H2 = H1/1000
+T1 = t1+273
+T2 = t2+273
+a1 = H2*(T1-T2)/T1
+---

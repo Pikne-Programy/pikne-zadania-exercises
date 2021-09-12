@@ -1,0 +1,15 @@
+---
+type: EqEx
+name: Masa
+---
+Oblicz masę 1 litra powietrza w temperaturze t1 = [10;100] stopni
+Celsjusza przy ciśnieniu p1 = [2000;3000] hPa. Gęstość powietrza w
+warunkach normalnych wynosi 1.2 kg/m^3.
+
+p1 = p1*100
+T1 = t1+273
+d1 = 1.2
+R1 = 8.31
+mi = d1*R1*273/1.013e5
+M2 = p1*1e-3*mi/(R1*T1)
+---

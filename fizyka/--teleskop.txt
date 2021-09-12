@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Teleskop
+img: logosuhora.jpg
+---
+Teleskop zwierciadlany na Mount Palomar w Kalifornii posiada
+zwierciadło o średnicy 2R = 5m i ogniskowej f1 = [17;150]m. Znaleźć
+rozmiary obrazu tarczy Księżyca, który można otrzymać za pomocą tego
+teleskopu. Wynik podaj w cm
+
+wy = (173706400*f1)/384403000
+---

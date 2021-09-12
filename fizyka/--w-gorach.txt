@@ -1,0 +1,19 @@
+---
+type: EqEx
+name: W górach
+---
+Ile wynosi różnica ciężarów ciała o masie m1 = [11;90] kg mierzonych na
+poziomie morza i na szczycie góry o h1 = [8000;8900] m n.p.m?
+Przyjmujemy, iż stała grawitacji G = 6.6732e-11, masa Ziemi  =  5,9736e+24
+kg, a promień Ziemi  =  6 365 km.
+
+g1 = 6.6732*Math.pow(10, -11)
+m9 = 5,9736*Math.pow(10, 24)
+r1 = 6365000
+a1 = r1+h1
+
+f3 = 1/Math.pow(a1, 2)
+f2 = 1/Math.pow(r1, 2)
+f1 = g1*m9*m1
+x1 = f1*(f2-f3)
+---

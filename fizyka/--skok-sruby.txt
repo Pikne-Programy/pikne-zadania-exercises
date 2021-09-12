@@ -1,0 +1,14 @@
+---
+type: EqEx
+name: Skok śruby
+---
+Proton poruszający się z prędkością V1 = [100000;110000]m/s wpada w
+jednorodne pole magnetyczne o indukcji B1 = [0.4;0.6]T pod kątem
+a1 = [30;60] stopni do kierunku wektora indukcji magnetycznej B. Oblicz
+skok linii śrubowej dla tego protonu.
+
+mp = 1.67e-27
+q1 = 1.6e-19
+a1 = a1*3.1415926/180
+d1 = 2*3.1415926*mp/(q1*B1)*V1*Math.cos(a1)
+---

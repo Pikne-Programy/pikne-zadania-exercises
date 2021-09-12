@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Natężenie zerowe
+---
+W jakiej odległości od Ziemi znajduje się punkt, w którym wypadkowe
+natężenie pola grawitacyjnego Ziemi i Księżyca jest równa zero?
+Przyjmij masę Księżyca jako 1/81 masy Ziemi, a odległość Ziemia
+Księżyc d = 384000 km.
+
+d1 = 384000000
+x1 = 9*d1/10
+---

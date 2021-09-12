@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Próg słyszalności
+img: wykrespg.jpg
+---
+Jaki co najmniej poziom powinien mieć dźwięk o częstotliwości f = 60Hz,
+aby mógł byś słyszalny?
+
+L1 = 23
+---

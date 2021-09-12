@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Syrena
+img: wykres.jpg
+---
+Syrena okrętowa emituje dźwięk o głośności A1 = 70 fonów i
+częstotliwości f1 = 200 Hz. Ile fonów otrzymamy, gdy w porcie odezwie
+się jednocześnie 10 syren?
+
+A2 = 80
+---

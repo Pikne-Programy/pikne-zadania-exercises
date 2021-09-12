@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Dwa pręty
+---
+W jakim stosunku powinny się mieć do siebie średnice dwu prętów
+aluminiowego i stalowego o jednakowej długości, aby przy jednakowych
+siłach działających na ich końce, wydłużenie było jednakowe? Moduły
+Younga stali E1 = [2e11;2.1e11] N/m^2 i aluminium E2 = [6.9e10;7.e10].
+
+d1 = Math.sqrt(E1/E2)
+---

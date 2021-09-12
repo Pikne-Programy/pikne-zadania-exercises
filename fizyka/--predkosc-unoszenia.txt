@@ -1,0 +1,17 @@
+---
+type: EqEx
+name: Prędkość unoszenia
+img: predkoscunoszenia.jpg
+---
+Oblicz prędkość unoszenia elektronów w przewodniku miedzianym o
+srednicy d1 = [1;2] mm przez który przepływa prąd elektryczny o
+natężeniu I1 = [2;5] A. Gęstość miedzi wynosi 8900 kg/m^3. Masa molowa
+miedzi wynosi 64g/mol.
+
+gm = 8900
+mm = 64e-3
+e1 = 1.6e-19
+S1 = Math.PI*(d1/2000)*(d1/2000)
+NA = 6.02e23
+v1 = I1/(S1*gm*e1*NA)*mm
+---

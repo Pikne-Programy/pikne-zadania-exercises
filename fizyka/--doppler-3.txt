@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Doppler 3
+---
+Obserwator znajduje sie miedzy dwoma samochodami poruszajacymi sie w
+tym samym kierunku z predkosciami v1 = [18;22] km/h i v2 = [24;26] km/h. Z
+jaka predkoscia powinien poruszac sie obserwator aby nie slyszec
+dudnien. Predkosc dzwieku vf = 1224 km/h. Odpowiedz podaj w km/h.
+
+vf = 1224
+vo = vf*(v1+v2)/(2*vf+v2-v1)
+---

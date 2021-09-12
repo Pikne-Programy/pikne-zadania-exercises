@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: RzutCialaDoCieczy
+---
+Mała kulka o gęstości r1 = [500;900] kg/m^3 wpada do cieczy o gęstości
+r2 = [1000;1200] kg/m^3 z wysokości h1 = [10;50] m. Jak długo kulka będzie
+opadać w cieczy?
+
+t1 = (Math.sqrt(2*10*h1))/(10*(r2/r1 -1))
+---

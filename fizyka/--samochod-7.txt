@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Samochód1
+---
+Stojący samochód wydaje dźwięk o częstotliwości f1 = [200;220] Hz. Z
+jaką prędkością porusza się obserwator jeżeli słyszy dźwięk o
+częstotliwości f2 = [220;240]Hz?
+
+vf = 340
+vo = vf*(f2/f1-1)
+---

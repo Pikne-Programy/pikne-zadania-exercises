@@ -1,0 +1,13 @@
+---
+type: EqEx
+name: Statek 2
+img: statek2.jpg
+---
+Statek o przekroju stożka pływa po morzu. Gęstość wody morskiej wynosi
+d1 = [1000;1100] kg/m^3. Oblicz zanurzenie statku, jeżeli jego masa
+wynosi m1 = [100;200] ton. Wysokość statku wynosi H = 6 m, a szerokość b = 4
+m.
+
+H1 = 6
+b1 = 4
+---

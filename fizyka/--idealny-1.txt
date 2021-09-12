@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Idealny 1
+---
+Oblicz temperaturę źródła idealnego silnika cieplnego (Carnota), o
+sprawności termodynamicznej n1 = [50;70] %, jeżeli temperatura chłodnicy
+wynosi T2 = [500;700] K.
+
+n1 = n1*0.01
+T1 = T2/(1-n1)
+---

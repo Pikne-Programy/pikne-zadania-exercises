@@ -1,0 +1,13 @@
+---
+type: EqEx
+name: Rura grubościenna
+---
+Oblicz moment bezwładności rury grubościennej jeżeli masa rury
+m1 = [3;22]kg, promień rury przed wycięciem R1 = [3; 27]cm, a grubość
+ścianki  d1 = [1;2]cm.
+
+r2 = R1-d1
+r2 = r2/100
+R1 = R1/100
+w2 = m1*(R1*R1+r2*r2)/2
+---

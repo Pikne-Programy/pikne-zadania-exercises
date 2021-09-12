@@ -1,0 +1,14 @@
+---
+type: EqEx
+name: Dwa Carnoty
+---
+Silnik Carnota-1 o sprawności n1 = [60;80] % przekazuje całe swoje
+ciepło oddane silnikowi Carnota-2 o sprawności n2 = [40;60] %. Oblicz
+łączną sprawność tak połączonych silników.
+
+n1 = n1/100
+n2 = n2/100
+n3 = (n1+n2-n1*n2)*100
+
+
+---

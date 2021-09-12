@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Energia cząstki
+---
+Cząstka alfa wpada w pole magnetyczne o indukcji B1 = [0.01;0.03] T
+prostopadle do kierunku wektora indukcji B1 i zatacza okrąg o
+promieniu R1 = [0.1;0.5]m. Oblicz energię cząstki w keV
+
+e1 = 1.6e-19
+ma = 4*1.67e-27
+E1 = (2*e1*B1*B1*R1)*(2*e1*B1*B1*R1)/(2*ma)
+---

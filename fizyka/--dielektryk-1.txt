@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Dielektryk 1
+img: dielektryk1.jpg
+---
+Pomiędzy okładki próżniowego kondensatora wsunięto dielektryk o stałej
+er = [2;10] w sposób pokazany na rysunku. Oblicz stosunek pojemności Cb
+do pojemności Ca.
+
+x1 = 2*er/(er+1)
+---

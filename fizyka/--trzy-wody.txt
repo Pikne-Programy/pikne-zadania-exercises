@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Trzy wody
+---
+Dane są trzy porcje wody o własnościach: m1 = [100;300] g, t1 = [10;80]
+st. C,  m2 = [100;300] g, t2 = [10;80] st. C,  m3 = [100;300] g, t3 = [10;80]
+st. C. Porcje te wlano do jednego naczynia. Oblicz temperaturę końcową
+mieszaniny.
+
+tk = (m1*t1+m2*t2+m3*t3)/(m1+m2+m3)
+---

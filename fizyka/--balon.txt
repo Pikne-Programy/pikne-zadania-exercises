@@ -1,0 +1,15 @@
+---
+type: EqEx
+name: Balon
+---
+Foliowy balon wypełniono helem o masie m1 = [10;20] g i  temperaturze
+t1 = [20;30] st. C. Oblicz energię wewnętrzną gazu w balonie.
+
+NA = 6.023e23
+mi = 0.004
+m1 = m1/1000
+k1 = 1.38e-23
+Th = t1+273
+N1 = m1*NA/mi
+Ek = N1*3/2*k1*Th
+---

@@ -1,0 +1,14 @@
+---
+type: EqEx
+name: Drabina oporników
+img: drabinaopornikow.jpg
+---
+Oblicz opór układu przedstawionego na rysunku. Każdy z widocznych
+rezystorów ma opór równy Ri = [1;20] omów.
+
+R1 = 2*Ri
+R2 = 1/(1/Ri+1/R1)+Ri
+R3 = 1/(1/Ri+1/R2)+Ri
+R4 = 1/(1/Ri+1/R3)+Ri
+Rz = 1/(1/Ri+1/R4)+Ri
+---

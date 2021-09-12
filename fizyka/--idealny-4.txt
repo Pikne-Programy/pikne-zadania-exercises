@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Idealny 4
+---
+Idealny silnik cieplny o temperaturze chodnicy T2 = [200;600] K pobiera
+ze źródła k1 = [2;7] razy więcej ciepła niż wykonana praca. Oblicz
+temperaturę źródła.
+
+T1 = T2/(1-1/k1)
+---

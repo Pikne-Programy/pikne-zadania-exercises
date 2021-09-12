@@ -1,0 +1,13 @@
+---
+type: EqEx
+name: Soczewka
+img: soczewka1.jpg
+---
+Na osi soczewki o współczynniku załamania n1 = [1;2] i promieniach
+krzywizn r1 = [10;20]cm i r2 = [5;15]cm umieszczono przedmiot AB tak jak
+na rysunku. Znaleźć powiększenie, jakie daje ta soczewka, jeżeli
+a1 = [1;2]cm, b1 = [3;5]cm, x1 = [10;20]cm i y1 = [20;30]cm.
+
+f1 = (1/(n1-1))*(r1*r2/(r1+r2))
+wy = f1/(a1+b1)*(b1/(y1-f1)+a1/(x1-f1))
+---

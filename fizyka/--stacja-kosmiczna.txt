@@ -1,0 +1,19 @@
+---
+type: EqEx
+name: Stacja kosmiczna
+img: satelita12.jpg
+---
+Stacja kosmiczna o masie m1 = [200;300] t krąży w odległości
+h1 = [300;400] km od powierzchni Ziemi. Jaką pracę należałoby wykonać
+aby podnieść tę stację na orbitę o a1 = [100;200] km wyższą? Przyjmij
+masę Ziemi 6e24kg, promień Ziemi 6400km.
+
+g1 = 6.67e-11
+m9 = 6e24
+rz = 6400e3
+m2 = m1*1000
+h2 = h1*1000
+a2 = a1*1000
+p1 = (1/(rz+h2+a2))-(1/(rz+h2))
+x1 = (-1)*g1*m9*m2*p1/2
+---

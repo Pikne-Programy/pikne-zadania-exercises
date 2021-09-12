@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Kwadrat 2
+img: kw2.jpg
+---
+Oblicz moment bezwładności ciała względem osi AA' jeżeli masy
+m1 = [1;10]kg rozmieszczone na wierzchołkach kwadratu. Bok kwadratu
+a1 = [1;20]cm. Moment bezwładmości odcinków łączących masy pomijamy.
+
+a1 = a1/100
+w1 = m1*a1*a1
+---

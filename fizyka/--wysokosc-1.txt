@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Wysokosc
+---
+Cialo rzucono do góry z predkoscia v1 = [10;15] m/s. Po jakim czasie
+osiagnie wysokosc h1 = [2;4]m.
+
+d1 = v1*v1-20*h1
+pd = Math.sqrt(d1)
+t1 = (v1-pd)/10
+---

@@ -1,0 +1,18 @@
+---
+type: EqEx
+name: Klocek
+img: klocek.jpg
+---
+Ze szczytu klocka (jego kształt jest pokazany na rysunku) o masie
+m1 = [150;300]g i wysokości h1 = [20;40] cm, puszczono ciało, którego masa
+wynosi m2 = [5;10] g. Jaką prędkość będzie miało ciało w chwili, gdy
+opuści ono klocek? Tarcie między klockami i podłożem oraz między
+ciałem i klockiem nie występuje. Przyjmij g = 10 m/s^2.
+
+m1 = m1/1000
+m2 = m2/1000
+h1 = h1/100
+li = 2*m1*10*h1
+mi = (m1+m2)
+v1 = Math.sqrt(li/mi)
+---

@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Dwa dźwięki
+---
+Różnica poziomów natężenia między dwoma dźwiekami o tej samej
+częstotliwości wynosi d1 = [2;10] db. Jaki jest stosunek natężeń tych
+dźwięków?
+
+x1 = Math.pow(10,d1/10)
+---

@@ -1,0 +1,20 @@
+---
+type: EqEx
+name: Doppler 4
+---
+Samochody A i B poruszają się po prostej drodze w tym samym kierunku i
+zwrocie z tymi samymi prędkościami. Odległość między samochodami
+wynosi 200 m. Samochody wydają dźwięk klaksonu o częstotliwości
+f0 = [100;150] Hz. W pewnym momencie w środku odległości między nimi na
+poboczu znalazł się przechodzień, który zarejestrował dudnienia
+dźwięku klaksonów o częstotliwości fd = [10;15] Hz. Oblicz prędkość
+samochodów.
+
+vf = 340
+a1 = fd
+b1 = 2*f0*vf
+c1 = -fd*vf*vf
+d1 = b1*b1-4*a1*c1
+pd = Math.sqrt(d1)
+vz = (-b1+pd)/(2*a1)
+---

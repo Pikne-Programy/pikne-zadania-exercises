@@ -1,0 +1,17 @@
+---
+type: EqEx
+name: Gęstość oleju
+img: rcururka.jpg
+---
+Uczniowie chcieli wyznaczyć gęstość oleju metodą u-rurki. W tym celu
+użyli do doświadczenia: u-rurki, wody, oleju oraz linijki. Najpierw
+wlali do naczynia wodę, a następnie do jednego z ramion ostrożnie olej
+tak aby ciecze się nie wymieszały. Później zmierzyli linijką warstwę
+oleju, która wynosiła c1 = 15 cm, oraz od tego samego poziomu warstwę
+wody, która wynosiła b1 = 13.5 cm. Ile wynosi gęstość oleju?
+
+rw = 1000
+a1 = 15
+c2 = 13.5
+ro = rw*(b1/c1)
+---

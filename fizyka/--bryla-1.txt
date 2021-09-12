@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Bryła 1
+---
+Symetryczna bryła o momencie bezwładności I1 = [0.1;0.5]kg*m2 obraca się
+swobodnie wokół głównej osi symetrii z prędkością kątową w1 = [10;30]
+rad/s. W pewnej chwili, dzięki wewnętrznemu (symetrycznemu)
+przesunięciu mas, moment bezwładności staje się równy I2 = [3;6]kg*m2.
+Oblicz okres obrotu bryły po zmianie .
+
+T1 = (2*3.14*I2)/(w1*I1)
+---

@@ -1,0 +1,13 @@
+---
+type: EqEx
+name: Prędkość komety
+---
+Najmniejsza odległość komety Halley'a od Słońca wynosi r1 =  88500e3 km,
+zaś największa r2 = 5310e6 km. Prędkość komety w aphelium wynosi około
+v2 = 670 m/s. Oblicz prędkość komety w peryhelium.
+
+r1 =  88500e3
+r2 = 5310e6
+v2 = 670
+v1 = v2*r2/r1
+---

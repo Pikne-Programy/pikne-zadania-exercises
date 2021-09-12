@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Natężenie trójkąt
+img: trojkatmasy.jpg
+---
+Oblicz natężenie pola grawitacyjnego w punkcie P, jeżeli
+a1 = [2e12;9e12] m, a m1 = [2e7;9e7] kg.
+
+g1 = 6.6732*Math.pow(10, -11)
+x1 = 2*g1*m1*Math.sin(60)/Math.pow(a1, 2)
+---

@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Szeregowo
+---
+Dwie sprężynki o współczynnikach sprężystości k1 = [30;50] N/m , oraz
+k2 = [51;70] N/m zawieszono pionowo jedna pod drugą. Następnie na końcu
+dolnej sprężynki zawieszono odważnik o masie m1 = [300;800] g. Oblicz
+łączne wydłużenie sprężynek.
+
+k0 = k1*k2/(k1+k2)
+xk = m1*0.001*10*(k1+k2)/(k1*k2)
+---

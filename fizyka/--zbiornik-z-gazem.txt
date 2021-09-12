@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Zbiornik z gazem
+---
+Oblicz temperaturę gazu, którego cząsteczki o masie m1 = [3e-26;5e-26]
+kg poruszają się ze średnią prędkościa v1 = [500;1500] m/s.
+
+NA = 6.02e23
+Rs = 8.31
+T1 = (m1*v1*v1*NA)/(3*Rs)
+---

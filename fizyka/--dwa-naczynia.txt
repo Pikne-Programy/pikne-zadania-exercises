@@ -1,0 +1,14 @@
+---
+type: EqEx
+name: Dwa naczynia
+---
+Dwa identyczne naczynia połączone są cienką rurką zawierają gaz w
+temperaturze T0 = [300;400] K i pod ciśnieniem p0 = [1000;1200] hPa.
+Oblicz ciśnienie jakie ustali się w obu naczyniach, jeżeli jedno z
+nich będziemy utrzymywać w temperaturze T1 = [400;500]K a drugie w
+temperaturze T2 = [600;700] K. Załóż, że rurka pozwala na wyrównanie się
+ciśnień, a uniemożliwia wyrównanie się temperatur gazu w obu
+naczyniach. Wynik podaj w hPa.
+
+pk = 2*p0*T1*T2/(T0*(T1+T2))
+---

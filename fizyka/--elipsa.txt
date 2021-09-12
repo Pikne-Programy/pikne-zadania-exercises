@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Elipsa
+img: elipsa.jpg
+---
+Punkt materialny porusza się po elipsie pod wpływem siły centralnej
+skierowanej zawsze ku punktowi O. w punkcie A prędkość  v1 = [30;40] m/2
+. Oblicz prędkość  w punkcie B wiedząc, ze  OA, czyli  r1 = [140;150] m,
+a OB, czyli r2 = [300;310]
+
+v2 = (r1*v1)/r2
+---

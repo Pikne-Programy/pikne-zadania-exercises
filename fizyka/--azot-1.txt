@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Azot
+img: azot.jpg
+---
+Ile cząsteczek azotu znajduje się w sześciennym pojemniku o objętości
+V1 = [0.002;0.005] m^3 ,którego temperatura jest równa t1 = [10;30] st C,
+a jego ciśnienie to p1 = [0.0001;0.0002] Pa?
+
+k1 = 1.38e-23
+n1 = p1*V1/(k1*(t1+273))
+---

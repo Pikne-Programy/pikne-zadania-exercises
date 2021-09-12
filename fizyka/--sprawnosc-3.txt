@@ -1,0 +1,15 @@
+---
+type: EqEx
+name: Sprawność 3
+img: sprawnosc3.jpg
+---
+Rysunek przedstawia cykl podobny do pracy silnika spalinowego
+czterosuwowego, lecz ciałem roboczym jest gaz doskonały. Dane są
+temperatury we wszystkich czterech stanach : T1 = [200;300] K,
+T2 = [400;600] K, T3 = [800;1200] K, T4 = [310;390] K.zaś procesy 1->2 oraz
+3->4 to przemiany adiabatyczne. Oblicz sprawność takiego cyklu w
+procentach.
+
+n1 = 1-(T4-T1)/(T3-T2)
+n1 = n1*100
+---

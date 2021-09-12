@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Przewodniki
+---
+Dane są dwa równoległe przewodniki odległe od siebie o d1 = [10;100] cm
+przez które płyną prądy o natężeniach I1 = I2 = [2;8] A w tych samych
+kierunkach. Oblicz natężenie prądu w trzecim przewodniku, umieszczonym
+w środku, aby układ pozostał w równowadze.
+
+I3 = I2/2
+---

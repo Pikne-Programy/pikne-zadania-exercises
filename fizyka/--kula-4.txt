@@ -1,0 +1,13 @@
+---
+type: EqEx
+name: Kula 1
+---
+W górę równi pochyłej o kącie nachylenia alfa = 30 stopni wtacza się bez
+poślizgu kula, która u podstawy równi ma prędkość v1 = [10;20]m/s.
+Oblicz drogę jaką przebędzie kula wzdłuż równi do chwili zatrzymania
+sie.
+
+a1 = 30
+b1 = Math.PI*a1/180
+s1 = 7/10*v1*v1/(10*Math.sin(b1))
+---

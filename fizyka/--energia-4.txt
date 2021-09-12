@@ -1,0 +1,20 @@
+---
+type: EqEx
+name: Energia 2 2 2
+---
+Dwa kondensatory o pojemnościach C1 = [1;4] mikrofarada oraz C2 = [5;10]
+mikrofarada dołączono niezależnie do napięcia U1 = [200;500] V.
+Następnie połączono razem ich dodatnie okładki oraz razem ujemne nie
+przykładając żadnego napięcia zewnętrznego. Oblicz energię układu.
+
+C1 = C1*1E-6
+C2 = C2*1E-6
+Q1 = C1*U1
+Q2 = C2*U1
+Qc = Q1+Q2
+Q4 = Qc/(C1/C2+1)
+Q3 = Qc-Q4
+W1 = Q3*Q3/(2*C1)
+W2 = Q4*Q4/(2*C2)
+Wc = W1+W2
+---

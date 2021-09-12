@@ -1,0 +1,9 @@
+---
+type: EqEx
+name: Teleskop zwierciadlany
+---
+Obliczyć powiększenie teleskopu zwierciadlanego, którego promień
+krzywizny R1 = [1;5]m, a ogniskowa okularu fo = [10;30]mm.
+
+wy = (R1*100)/(2*(fo/10))
+---

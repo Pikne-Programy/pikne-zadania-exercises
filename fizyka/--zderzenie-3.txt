@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Zderzenie 3
+---
+Dwie kule zderzają się centralnie i sprężyście. Prędkość pierwszej
+kuli przed zderzeniem wynosi v1 = [6;12] cm/s, a drugiej v2 = [-18;-9]
+cm/s. Po zderzeniu prędkość pierwszej kuli wynosi u1 = [-18;-9] cm/s, a
+drugiej u2 = [6;12] cm/s. Oblicz stosunek mas obu kul (iloraz m1/m2).
+
+sm = (u2-v2)/(v1-u1)
+---

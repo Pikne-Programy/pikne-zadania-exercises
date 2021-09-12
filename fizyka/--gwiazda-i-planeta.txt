@@ -1,0 +1,17 @@
+---
+type: EqEx
+name: Gwiazda i planeta
+img: ziemksie.jpg
+---
+Ile razy natężenie pola grawitacyjnego gwiazdy X w punkcie P na
+powierzchni planety Y krażącej wokół gwiazdy X jest mniejsze od
+natężenia pola grawitacyjnego planety Y. Masa gwiazdy X jest 333500
+razy większa od masy planety Y. Odległość miedzy gwiazdą X a planetą Y
+wynosi d1 = [2e+11;9e+11] m. Masa planety Y równa jest m2 = [2e+24;9e+24]
+kg. Promień planety Y wynosi r2 = [2e+6;9e+6] m.
+r4 = Math.pow(r2, 2)
+x2 = Math.pow(x1, 2)/(r4*n1)
+
+n1 = 333500
+x1 = (d1-r2)
+---

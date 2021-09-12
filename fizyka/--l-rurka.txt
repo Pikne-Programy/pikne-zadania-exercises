@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: L-rurka
+img: ururka2.jpg
+---
+W rurce zgiętej w kształt litery L otwartej z obu stron, znajduje się
+ciecz. Z jakim przyspieszeniem powinna poruszać się rurka, aby ciecz
+nie wylewała się z niej? Długość części poziomej rurki wynosi l1 = [3;6]
+cm, długość części pionowej wynosi l2 = [6;10] cm g = 10 m/^2.
+
+a1 = 10*l2/l1
+---

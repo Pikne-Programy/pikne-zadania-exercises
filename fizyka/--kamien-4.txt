@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Kamień 2 2
+---
+Kamień rzucony ukośnie z wysokości h1 = [10.0;30.0]m nad powierzchnią
+Ziemi (gdzie przyjmujemy, że energia potencjalna równa jest zeru) z
+prędkością początkową v0 = [16.0;30.0]m/s, upadł na Ziemię z prędkością
+v1 = [12.0;24.0]m/s. Jaka część energii mechanicznej ciała została
+zużyta na pokonanie oporów powietrza?
+
+k1 = 1-(v1*v1)/(v0*v0+2*9.81*h1)
+---

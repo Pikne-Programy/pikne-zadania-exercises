@@ -1,0 +1,14 @@
+---
+type: EqEx
+name: Zwierciadło sferyczne
+---
+Na osi optycznej wklęsłego zwierciadła sferycznego o promieniu
+R1 = [40;60]cm umieszczono punktowe źródło światła S w odległości
+a1 = [30;50]cm od tego zwierciadła. W jakiej odległości od zwierciadła
+należy ustawić płaskie zwierciadło, aby promienie odbite od
+zwierciadła sferycznego i płaskiego powróciły do puntu S?
+
+f1 = (R1)/2
+y1 = f1*a1/(a1-f1)
+wy = a1+(y1-a1)/2
+---

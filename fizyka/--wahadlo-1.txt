@@ -1,0 +1,9 @@
+---
+type: EqEx
+name: Wahadło 1
+---
+Jak długie musi być wahadło zegara ściennego w kształcie pręta, aby
+jego okres wynosił T1 = [1;10] s? Przyjmij g = 10 m/s^2.
+
+l1 = 3*T1*T1*10/8/Math.PI/Math.PI
+---

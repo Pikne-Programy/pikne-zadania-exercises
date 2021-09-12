@@ -1,0 +1,13 @@
+---
+type: EqEx
+name: Idealny 2
+---
+Oblicz sprawność idealnego silnika cieplnego, którego źródło ciepła ma
+temperaturę T1 = [500;2500] st. C, a chłodnica T2 = [-100;400] st. C.
+Wynik wyraź w procentach.
+
+T1 = 273+T1
+T2 = 273+T2
+n1 = (T1-T2)/T1
+n1 = n1*100
+---

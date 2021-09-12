@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Azot2
+---
+Ile cząsteczek azotu znajduje się w naczyniu o pojemności
+V1 = [5e-4;6e-3] m^3, jeżeli temperatura gazu wynosi T1 = [23;30] st C, a
+jego ciśnienie p1 = [1e-4;2e-3] Pa?
+
+t1 = T1+273
+k1 = 1.385e-23
+N1 = p1*V1/(k1*t1)
+---

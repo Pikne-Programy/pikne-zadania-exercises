@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Stalowy drut
+---
+Jakie najwieksze wydłużenie wzgledne  deltaL / L  można uzyskać przy
+rozciąganiu drutu stalowego, gdyby wydłużenie było proporcjonalne do
+naprężenia aż do granicy wytrzymałości na zerwanie? Granica
+wytrzymałości na zerwanie wynosi W1 = [1.4e9;1.6e9] N/m^2, natomiast
+moduł Younga E1 = [2e11;2.2e11] N/m^2.
+
+l1 = W1/E1
+---

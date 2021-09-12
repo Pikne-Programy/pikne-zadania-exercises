@@ -1,0 +1,14 @@
+---
+type: EqEx
+name: Domek
+---
+Chcemy zbudować domek w kształcie prostopadłościanu, którego wszystkie
+ściany (podłoga, dach i ściany boczne) są wykonane ze styropianu.
+Wymiary zewnętrzne wynoszą a = [3;5]m, b = [3,5]m, h = [2;3]m. Jak grube
+powinny być ściany tego domku aby do jego ogrzania wystarczyła moc
+P = [800;1200] W. Temperatura na zewnątrz wynosi t1 = [-5;10] st. C a
+temperatura wewnątrz t2 = [20;23] st. Celsjusza. Przewodnictwo cieplne
+styropianu wynosi lambda = 0.04 W/mK.
+
+d1 = 0.04*(2*a*b+(2*a+2*b)*h)*(t2-t1)/1000
+---

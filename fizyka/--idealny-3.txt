@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Idealny 3
+---
+Ile pracy wykonuje idealny silnik cieplny pobierający ze źródła ciepło
+Q1 = [20;80] kJ, jeśli temperatura źródła jest n1 = [2;5] razy większa niż
+temperatura chłodnicy?
+
+W1 = (n1-1)*Q1/n1
+W1 = W1*1000
+---

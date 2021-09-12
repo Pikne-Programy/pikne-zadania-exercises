@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Zderzenie 2
+img: zderzenie2.jpg
+---
+Na stole leży piłeczka pingpongowa, w kierunku której porusza się
+ciężki klocek z prędkością v1 = [0.1;1] m/s. Z jaką prędkością będzie
+poruszać się piłeczka po sprężystym zderzeniu?
+
+vk = 2*v1
+---

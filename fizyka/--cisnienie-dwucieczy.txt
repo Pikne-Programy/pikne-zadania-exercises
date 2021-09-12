@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: CisnienieDwuCieczy
+---
+Do cylindrycznego naczynia nalano jednakowe masy dwóch cieczy o
+gęstościach r1 = [800;1200]kg/m^3 i r2 = [10000;15000]kg/m^3. Całkowita
+wysokośc słupa obu cieczy wynosi hc = [100;200] cm. Wyznacz ciśnienie
+wywierane na dno naczynia.
+
+p1 = (2*10*0.01*hc)/(1/r1+1/r2)
+---

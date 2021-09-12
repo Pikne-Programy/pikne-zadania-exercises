@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Grzałki
+img: cietegrzalki.jpg
+---
+Grzałkę zbudowaną z jednolitego drutu pocięto na n1 = [10;20]równych
+części i połączono je równolegle do takiego samego źródła napięcia.
+Podaj ułamek dziesiętny będący stosunkiem P1/P2 mocy pierwotnej
+grzałki do mocy wydzielonej przez tak podłączone kawałki.
+
+S1 = 1/n1/n1
+---

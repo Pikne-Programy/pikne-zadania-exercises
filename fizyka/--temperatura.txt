@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Temperatura
+---
+W jakiej temperaturze średnia prędkość atomów helu o masie molowej
+u1 = [4e-4;4e-3] kg/mol jest równa średniej prędkości cząsteczek wodoru
+o masie molowej u2 = [2e-4;2e-3] kg/mol o temperaturze t2 = [24;30] st C?
+
+T2 = t2+273
+T1 = ((u1*T2)/u2)
+---

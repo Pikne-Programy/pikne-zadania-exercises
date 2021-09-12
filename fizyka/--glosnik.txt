@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Głośnik
+---
+¦rednie natężenie dźwięku w odległości r1 = [2;5] m od głośnika wynosi
+I1 = [1; 10] W/m^2. Obliczyć średnie natężenie dźwięku w odległości
+r2 = [8;12] m od głośnika.
+
+I2 = (I1*r1*r1)/(r2*r2)
+---

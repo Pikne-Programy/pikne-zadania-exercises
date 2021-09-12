@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Ramka
+---
+Kwadratowa ramka z drutu o boku a1 = [10;20] cm znajduje się w
+jednorodnym polu magnetycznym zmiennym w czasie B = Bo+B1*t. Oblicz SEM
+powstałą w ramce, przy założeniu, że linie pola są prostopadłe do
+powierzchni ramki. Przyjmij B1 = [1e4;3e4] T/s.
+
+E1 = B1*a1*a1/10000
+---

@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Sprawność 1
+img: sprawnosc1.jpg
+---
+Oblicz sprawność cyklu przedstawionego na rysunku, jeżeli ciałem
+roboczym jest gaz 2-atomowy. Wynik podaj w procentach.
+
+s1 = 6.818
+---

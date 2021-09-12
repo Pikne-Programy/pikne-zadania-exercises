@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Dwa punkty
+---
+Dwa punkty położone są w odległościach: l1 = [12;16] m i l2 = [18;24] m od
+źródła fali kulistej i drgają z różnicą faz df = [3;5] rad. Jaka jest
+prędkość rozchodzenia się fali w tym ośrodku, jeżeli okres drgań
+wynosi T1 = [1e-2;3e-2] s?
+
+v1 = 2*Math.PI*(l2-l1)/(df*T1)
+---

@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Walec
+img: walec.jpg
+---
+Przy jakim kącie alfa (w stopniach) klocek oderwie się od powierzchni
+walca? Tarcie pomijamy.
+
+a1 = 48.2
+---

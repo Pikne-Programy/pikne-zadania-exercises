@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Planeta
+---
+Oblicz przyspieszenie na powierzchni planety o gęstości d1 = [3;6]
+g/cm^3 i promieniu r1 = [6000;7000] km.
+
+d2 = d1*1000
+r2 = r1*1000
+x1 = 6.67e-11*d2*4*3.14*r2/3
+---

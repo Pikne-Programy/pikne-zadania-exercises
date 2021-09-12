@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Płytka równoległościenna
+---
+Na płytkę równoległościenną pada promień świetlny pod kątem a1 = [50;60]
+stopni. Okazało się, że jest to kąt Brewstera. Oblicz kąt załamania.
+
+a1 = a1*Math.PI/180
+n1 = Math.tan(a1)
+b1 = Math.asin(Math.sin(a1)/n1)
+b2 = b1*180/Math.PI
+---

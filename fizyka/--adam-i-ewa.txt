@@ -1,0 +1,13 @@
+---
+type: EqEx
+name: Adam i Ewa
+---
+Kiedy Ewa miała t1 = [8;12] lat urodził się Adam. Czy możliwe jest aby
+18 urodziny obchodzili razem na Ziemi. Jeżeli tak to oblicz, z jaką
+prędkością powinna poruszać się Ewa aby wspólne urodziny były możliwe?
+Wynik wyraź w m/s.
+
+t2 = 18
+dt = t2-t1
+v1 = 3e8*Math.sqrt(1-dt*dt/(t2*t2))
+---

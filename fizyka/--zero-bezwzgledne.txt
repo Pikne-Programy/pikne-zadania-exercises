@@ -1,0 +1,14 @@
+---
+type: EqEx
+name: Zero bezwzględne
+---
+Uczniowie wyznaczali temperaturę zera bezwzględnego mierząc ciśnienie
+gazu od temperatury w zamkniętym zbiorniku. W doświadczeniu uzyskali
+wyniki: t1 = [19;21] st. C, p1 = [1012;1014] hPa, t2 = [79;81] st. C,
+p2 = [1219;1220] hPa. Jaką temperaturę w st. C otrzymali dla zera
+bezwzględnego?
+
+p1 = p1*100
+p2 = p2*100
+t0 = -(p1*t2-p2*t1)/(p2-p1)
+---

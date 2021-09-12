@@ -1,0 +1,17 @@
+---
+type: EqEx
+name: Zbiorniki
+---
+Jeden zbiornik o objętości V1 = [2;7] dm^3 wypełniony jest tlenem pod
+ciśnieniem p1 = [2e5;5e5] Pa, a drugi o objętości V2 = [5;9] dm^3 azotem
+pod ciśnieniem p2 = [5e5;8e5] Pa. Jakie ciśnienie będzie miała
+mieszanina tych gazów po połączeniu zbiorników? Zakładamy, że
+temperatura podczas mieszania się gazów nie ulegnie zmianie.
+
+p3 = (p1*V1+p2*V2)/(V1+V2)
+R1 = 8.31
+u1 = 28
+VA = VA/1000
+T1 = (m1*(t1+273)+m2*(t2+273))/(m1+m2)
+p1 = (m1*R1*T1)/(u1*VA)*2
+---

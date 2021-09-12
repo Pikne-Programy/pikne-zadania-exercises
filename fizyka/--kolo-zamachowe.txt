@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Koło zamachowe
+---
+Do koła zamachowego o momencie bezwładności I1 = [300;350] kg*m^2
+obracającego się z częstotliwością f1 = [10;15]  1/s przyłożono klocek
+hamulcowy dociskany z siłą N1 = [16;20] kN. Ile wynosi współczynnik
+tarcia klocka o koło zamachowe jeśli zatrzymało się ono po wykonaniu
+n1 = [12;20] obrotów. Promień koła R1 = [1;3] m.
+
+k1 = I1*3.1415926*f1*f1/(R1*N1*n1)/1000
+---

@@ -1,0 +1,15 @@
+---
+type: EqEx
+name: U-rurka2
+---
+W rurce o kształcie litery U znajduje się rtęć. Do jednego z ramion
+wlano wody, która utworzyła słup o wysokości h1 = [30;50] cm, a
+następnie do obu ramion nalano cieczy X, aż do końców ururki
+znajdujących się na jednakowym poziomie. Oblicz gęstość cieczy X
+wiedząc że różnica poziomów rtęci wynosi h2 = [0.5;3] cm,gęstość rtęci
+rr = 13600 kg/m^3 a wody rw =  1000 kg/m^3.
+
+rw = 1000
+rr = 13600
+rX = (rw*h1-rr*h2)/(h1-h2)
+---

@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Zderzenie 1
+img: zderzenie1.jpg
+---
+Kula stalowa poruszająca się z prędkością v1 = [1;5] m/s zderza się
+sprężyście z klockiem stalowym o bardzo dużej masie, poruszającym się
+naprzeciw kulki z prędkością u1 = [6;10] m/s. Oblicz prędkość kuli po
+zderzeniu.
+
+vk = 2*u1+v1
+---

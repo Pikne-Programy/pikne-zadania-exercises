@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Ciężarówka
+img: hamujaca_ciezarowka.jpg
+---
+Załadowany samochód ciężarowy ma energię kinetyczną
+E1 = [300000.0;500000.0]J. Oblicz drogę hamowania samochodu przy sile
+hamującej F1 = [2000.0;4000.0]N.
+
+s1 = E1/F1
+---

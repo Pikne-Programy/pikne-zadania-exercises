@@ -1,0 +1,13 @@
+---
+type: EqEx
+name: Kwadrat 3
+img: kw3.jpg
+---
+Oblicz moment bezwładności ciała w kształcie kwadratu zbudowanego z
+prętów o masie m1 = [1;10]kg względem osi AA'. Bok kwadratu a1 = [1;20]cm.
+
+r1 = a1/200
+I1 = 2*(m1*r1*r1)
+I2 = 2*(m1*a1*a1/12)
+w1 = I1+I2
+---

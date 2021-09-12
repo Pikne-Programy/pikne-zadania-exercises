@@ -1,0 +1,18 @@
+---
+type: EqEx
+name: U-rurka
+---
+W rurce o kształcie litery U znajdują się dwie ciecze przedzielone
+rtęcią. W lewej części mieszanina alkoholu z gliceryną w prawej woda.
+Poziom cieczy w lewym ramieniu jest o dh = [1;3] cm wyższy niż w prawym,
+a poziomy rtęci są na jednakowej wysokości. Wysokość słupa wody wynosi
+hw = [12;16] cm. W jakim stosunku wagowym wymieszana jest gliceryna z
+alkoholem? Gęstość gliceryny rg = 1260 kg/m^3 , gęstość alkoholu ra = 800
+kg/m^3, gęstość wody rw = 1000 kg/m^3.
+
+ra = 800
+rg = 1260
+rw = 1000
+rm = rw*hw/(hw+dh)
+sm = (rm*rg-ra*rg)/(ra*rg-rm*ra)
+---

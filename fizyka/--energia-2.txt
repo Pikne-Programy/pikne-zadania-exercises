@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Energia 2 2
+---
+Całkowita energia kinetyczna cząsteczek gazu doskonałego stanowi jego
+energię wewnętrzną. Oblicz tę energię dla gazu, który zajmuje objętość
+V1 = [1;3] m^3 pod ciśnieniem p1 = [1e4;1e3] Pa.
+
+U1 = 1.5*p1*V1
+---

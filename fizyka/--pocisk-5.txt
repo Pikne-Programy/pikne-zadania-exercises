@@ -1,0 +1,14 @@
+---
+type: EqEx
+name: Pocisk 2 2
+img: pociskdeska.jpg
+---
+Pocisk o masie m1 = [5.0;10.0]g poruszający się z prędkością
+v1 = [700.0;900.0]m/s przebija deskę o grubości d1 = [2.0;6.0]cm i leci
+dalej z prędkością v2 = [600.0;400.0]m/s. Oblicz średnią wartość siły
+oporu działającej na pocisk podczas przebijania deski.
+
+m1 = m1/1000
+d1 = d1/100
+F1 = (m1*(v1*v1)-m1*(v2*v2))/2*d1
+---

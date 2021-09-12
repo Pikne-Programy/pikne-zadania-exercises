@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Gotowanie
+img: gotowanie.jpg
+---
+Ile sekund zajmie zagotowanie litra wody o temperaturze początkowej
+T1 = [15;30] stopni Celsjusza przy pomocy grzałki o oporze R1 = [20;100]
+omów podłączonej do napięcia 230V, której sprawność wynosi S1 = [70;90]%
+? Ciepło właściwe wody: 4200 J/(kg*K)
+
+t1 = R1*(100-T1)*4200/230/230/S1*100
+---

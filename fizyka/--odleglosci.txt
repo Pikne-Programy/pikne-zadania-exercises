@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Odległości
+---
+Oblicz średnie odległości między cząsteczkami gazu doskonałego pod
+ciśnieniem  p1 = [1e-5;1.5e-5] Pa w temperaturze t1 = [30;60] st
+Celsjusza.
+
+T1 = t1+273
+a3 = 8.31*T1/(6.023e23*p1)
+a1 = Math.pow(a3,1/3)
+---

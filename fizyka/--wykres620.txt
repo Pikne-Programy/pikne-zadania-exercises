@@ -1,0 +1,20 @@
+---
+type: EqEx
+name: Wykres-620
+img: ryszad620.jpg
+---
+Na rysunku przedstawiono cykl przemian tlenu o masie m1 = [1;2] kg
+składającego się z trzech gałęzi: 2-3 adiabata, 3-1 izochora, 1-2
+izoterma; p3 = [1;2]e7Pa, p2 = [3;4]e7Pa, V1 = [10;12]dm^3, V2 = [5;7] dm^3.
+Oblicz T3.
+
+mi = 32e-3
+p3 = p3*1e7
+p2 = p2*1e7
+V1 = V1*1e-3
+V2 = V2*1e-3
+V3 = V1
+T2 = p2*V2*mi/(m1*8.31)
+p1 = p2*V2/V1
+T3 = p3*V3*mi/(m1*8.31)
+---

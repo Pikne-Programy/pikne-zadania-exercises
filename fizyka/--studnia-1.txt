@@ -1,0 +1,17 @@
+---
+type: EqEx
+name: Studnia
+img: studnia.jpg
+---
+Do studni wrzucono kamyk. Plusk wody można było usłyszeć po czasie
+t0 = [3;6] s. Oblicz głębokość studni. Przyjmij, że przyspieszenie
+ziemskie g1 = 9.81 m/s^2 i  prędkość dźwięku vd = [330;340] m/s
+
+a1 = g1/2
+b1 = vd
+c1 = -vd*t0
+d1 = (b1*b1)-4*a1*c1
+pd = Math.sqrt(d1)
+t1 = (-b1+pd)/(2*a1)
+s1 = (g1*t1*t1)/2
+---

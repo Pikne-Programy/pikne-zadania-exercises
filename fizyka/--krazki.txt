@@ -1,0 +1,17 @@
+---
+type: EqEx
+name: Krążki
+img: krazki.jpg
+---
+Dwa krążki  o momentach bezwładności I1 = [100;120] kg*m^2 i
+I2 = [120;150] kg*m^2 obracają się niezależnie od siebie na wspólnym
+sworzniu, z prędkościami kątowymi w1 = [20;25] rad/s i w2 = [30;35] rad/s.
+W pewnej chwili górny krążek opada na dolny i łączy się z nim dzięki
+siłom tarcia tak,  że oba krążki poruszają się z tą samą prędkością
+kątową. Ile ciepła wydzieli się wskutek tego procesu?
+
+w0 = (I1*w1+I2*w2)/(I1+I2)
+EA = I1*w1*w1/2+I2*w2*w2/2
+EB = (I1+I2)*w0*w0/2
+Q0 = EA-EB
+---

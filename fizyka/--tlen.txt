@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Tlen
+img: tlen.jpg
+---
+Oblicz średnią prędkość cząsteczek tlenu, który pod ciśnieniam
+p1 = [1e6;2e6] Pa ma gęstość d1 = [1.2;2] kg/m^3.
+
+v1 = Math.sqrt(3*p1/d1)
+---

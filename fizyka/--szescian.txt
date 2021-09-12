@@ -1,0 +1,13 @@
+---
+type: EqEx
+name: Sześcian
+---
+Na sześcianie o boku a1 = [8;12] cm, gęstości 2000 kg/m^3 i o module
+sprężystości E1 = [9.6e6;9.7e6] N/m^2 położono, jeden na drugim, n1 = 12
+takich samych sześcianów. Oblicz zmiane objetości dolnego sześcianu.
+
+d1 = 2000
+n1 = 12
+a1 = a1*0.01
+v1 = (n1*(a1*a1*a1*a1)*10*d1)/E1
+---

@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Platyna
+---
+Długofalowa granica zjawiska fotoelektrycznego dla platyny wynosi
+l1 = [190;200] nm. Po ogrzaniu platyny do wysokiej temperatury granica
+ta wyniosła l2 = [210;220] nm. O ile ogrzanie platyny zmniejszyło pracę
+wyjścia?
+
+dw = 6.6e-34*3e8*(1/l1-1/l2)/1e-9
+---

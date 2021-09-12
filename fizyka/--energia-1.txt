@@ -1,0 +1,9 @@
+---
+type: EqEx
+name: Energia 2
+---
+Jaką część energii całkowitej ruchu harmonicznego stanowi energia
+potencjalna dla wychylenia stanowiącego x1 = [0.1;0.7] część amplitudy?
+
+s1 = x1*x1
+---

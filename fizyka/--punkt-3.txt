@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Punkt 3
+---
+Znajdź amplitudę drgań punktu materialnego, jeżeli jego całkowita
+energia wynosi E1 = [1;10] mJ, a działająca nań siła przy wychyleniu do
+połowy amplitudy jest równa F1 = [1;10] N.
+
+E1 = E1/1000
+A1 = E1/F1
+---

@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Prędkość księżyca
+---
+Oblicz średnią prędkość liniową księżyca w ruchu wokół Planety.
+¦rednia odległość od Planety wynosi d1 = [3e5;4e5] km, przyspieszenie
+grawitacyjne g1 = [8;10] m/s^2, a promień Planety r1 = [5e3;8e3] km.
+
+x1 = r1*1e3*Math.sqrt(g1/(d1*1e3))
+---

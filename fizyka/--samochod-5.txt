@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Samochód 2 2
+---
+Samochód o masie m1 = [1000;1500] kg i mocy P1 = [40;60] KM rusza z
+miejsca. Po jakim czasie osiągnie prędkość  v1 = [100;120] km/h.
+1KM = 735.5W.
+
+v1 = v1*1000/3600
+P1 = P1*735.5
+t1 = m1*v1*v1/(P1*2)
+---

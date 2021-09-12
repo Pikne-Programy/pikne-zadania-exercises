@@ -1,0 +1,14 @@
+---
+type: EqEx
+name: Pęcherzyk
+---
+Objętość pęcherzyka metanu powiększa się n1 = [2;5] krotnie przy
+wypływaniu pęcherzyka z dna zbiornika na jego powierzchnię.
+Temperatura wody na dnie zbiornika wynosi t1 = [0;10] st. C, a na
+powierzchni  t2 = [25;40] st. C. Załóż, że ciśnienie atmosferyczne
+wynosi p = 1000 hPa. Oblicz głębokość zbiornika.
+
+T1 = t1+273
+T2 = t2+273
+h1 = (100000*(n1*T1-T2))/(T2*1000*10)
+---

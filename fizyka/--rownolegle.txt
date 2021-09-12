@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Równolegle
+---
+Dwie sprężynki o jednakowych długościach i współczynnikach
+sprężystości k1 = [30;50] N/m , oraz k2 = [51;70] N/m zawieszono pionowo
+jedna obok drugiej. Następnie na końcu  sprężynek zawieszono odważnik
+o masie m1 = [300;800] g. Oblicz łączne wydłużenie sprężynek.
+
+kw = k1+k2
+xk = m1*0.001*10/(kw)
+---

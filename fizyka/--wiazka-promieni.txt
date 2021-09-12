@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Wiązka promieni
+---
+Wiązka promieni równoległych, której szerokość w powietrzu wynosi
+d1 = [0.01;0.05]m, pada pod kątem a1 = [45;60]stopni na powierzchnię wody.
+Znaleźć szerokość wiązki w wodzie.
+
+a2 = (a1*3.14)/180
+n1 = 1.33
+wy = d1*Math.sqrt((1-(Math.sin(a2)*Math.sin(a2))/(n1*n1))/(1-Math.sin(a2)*Math.sin(a2)))
+---

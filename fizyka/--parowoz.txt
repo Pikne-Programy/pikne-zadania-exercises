@@ -1,0 +1,15 @@
+---
+type: EqEx
+name: Parowóz
+---
+Moc parowozu ciągnącego pociąg o ciężarze Q1 = [1700;1800] kN pod górę o
+nachyleniu a1 = [1;10] stopni wynosi P1 = [400;500] kW. Z jaką największą
+prędkością może wjechać ten pociąg pod tę górę, gdy siła oporów wynosi
+F1 = [10;20] kN?
+
+Q1 = Q1*1000
+F1 = F1*1000
+P1 = P1*1000
+F2 = Math.sin(a1*Math.PI/180)*Q1+F1;
+v1 = P1/F2
+---

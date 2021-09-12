@@ -1,0 +1,13 @@
+---
+type: EqEx
+name: Naczynie
+img: naczynie.jpg
+---
+Cylindryczne naczynie z gazem podzielone jest nieruchomym tłokiem na
+dwie części (rys), w których znajduje się gaz doskonały. Oblicz
+ciśnienie gazu po odblokowaniu tłoka i wyrównaniu się temperatur. Dane
+są : p1 = [1000;2000] hPa V1 = [10;100] cm^3 p2 = [1000;3000] hPa
+V2 = [50;200] cm^3
+
+p3 = (p1*V1+p2*V2)*100/(V1+V2)
+---

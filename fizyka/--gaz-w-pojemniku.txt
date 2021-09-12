@@ -1,0 +1,16 @@
+---
+type: EqEx
+name: Gaz w pojemniku
+---
+W zbiorniku znajdują się 3 cząsteczki, których masy są równe i wynoszą
+m1 = m2 = m3 = [2e-26;20e-26] kg. Poruszają się one z prędkościami
+v1 = [500;1500] m/s, v2 = [500;1500] m/s, v3 = [500;1500] m/s. Oblicz
+temperaturę w tym zbiorniku.
+
+C = 2.07e-23
+E1 = (m3*v1*v1)/2
+E2 = (m3*v2*v2)/2
+E3 = (m3*v3*v3)/2
+Es = (E1+E2+E3)/3
+T1 = Es/C
+---

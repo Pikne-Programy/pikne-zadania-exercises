@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Słup telegraficzny
+---
+Słup telegraficzny długości l1 = [2.0;9.0]m ma ciężar
+P1 = [500.0;2000.0]N. Na szczycie słupa jest umocowana poprzeczka z
+izolatorami o masie m1 = [2.0;30.0]kg. Jaką pracę należy wykonać, aby
+podnieść leżący słup do pozycji pionowej? Przyjmij g = 9.81 m/s^2.
+
+W1 = (0.5*P1+9.81*m1)*l1
+---

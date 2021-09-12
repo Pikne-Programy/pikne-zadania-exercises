@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Doppler1
+---
+Z jaką prędkością powinno się zbliżać źródło dźwięku do nieruchomego
+obserwatora aby częstotliwość słyszana była n1 = [2;3] raza większa od
+nadawanej? Przyjmij vd = 340 m/s.
+
+vz = 340*(n1-1)/n1
+---

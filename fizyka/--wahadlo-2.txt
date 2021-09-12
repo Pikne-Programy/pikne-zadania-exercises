@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Wahadło 2
+---
+Wahadło na Ziemi wykonuje drgania z okresem T1 = [1;10] s. Jaki będzie
+okres drgań tego wahadła na planecie, na której przyspieszenie
+grawitacyjne stanowi a1 = [0.1;10] część przyspieszenia ziemskiego?
+
+T2 = T1*Math.sqrt(1/a1)
+---

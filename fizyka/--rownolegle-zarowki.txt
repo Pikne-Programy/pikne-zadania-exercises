@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Równoległe żarówki
+img: rownoleglezarowki.jpg
+---
+Dwie żarówki o mocach dla napięcia 230 V: P1 = [10;100]W oraz
+P2 = [10;100]W połączono równolegle. Oblicz opór powstałego układu.
+
+R1 = 230*230/P1
+R2 = 230*230/P2
+Rz = 1/(1/R1+1/R2)
+---

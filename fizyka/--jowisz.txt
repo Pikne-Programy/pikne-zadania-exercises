@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Jowisz
+img: jowisz.jpg
+---
+Okres obiegu Jowisza dookoła Słońca wynosi około 12 lat. Oblicz
+średnią odległość Jowisza od Słońca. Wynik podaj w jed.
+astronomicznych. <a href = http://pl.wikipedia.org/wiki/Jowisz
+target = _blank>Więcej o Jowiszu</a>
+
+x1 = 5.2
+---

@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Wagon 2
+---
+Wahadło matematyczne zawieszono pod sufitem wagonu pociągu. Jaką część
+okresu drgań wahadła podczas spoczynku wagonu stanowi okres drgań
+wahadła podczas ruchu wagonu z przyspieszeniem a1 = [1;30] m/s^2?
+Przyjmij g = 10 m/s^2.
+
+k1 = Math.sqrt(Math.sqrt(100/(100+a1*a1)))
+---

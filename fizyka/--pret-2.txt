@@ -1,0 +1,9 @@
+---
+type: EqEx
+name: Pręt 2
+---
+Oblicz moment bezwładności pręta o długości l1 = [1;10]m i o masie
+m1 = [1;3]kg względem jednego końca.
+
+w1 = 1/3*m1*l1*l1
+---

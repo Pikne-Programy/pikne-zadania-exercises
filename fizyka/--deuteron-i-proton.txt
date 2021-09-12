@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Deuteron i proton
+---
+Deuteron i proton, po przejściu w próżni różnicy potencjałów U = 500 V,
+wpadają w jednorodne pola magnetyczne prostopadle do kierunku
+wyznaczonego przez wektor indukcji magnetycznej. Jaki musiałby byc
+stosunek wartości indukcji tych pól (Bp / Bd), aby zatoczyły okręgi o
+identycznych promieniach?
+
+x1 = 1/Math.sqrt(2)
+---

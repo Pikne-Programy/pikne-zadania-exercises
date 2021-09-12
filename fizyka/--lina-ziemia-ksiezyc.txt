@@ -1,0 +1,14 @@
+---
+type: EqEx
+name: Lina Ziemia Księżyc
+---
+Oblicz średnicę liny stalowej, która utrzymałaby Księżyc na orbicie  w
+przypadku braku siły grawitacji. Do obliczeń przyjmij następujace
+dane: mz = [5.9e24;6e24] kg, mk = 1/81mz, wytrzymałość stali na zerwanie
+w1 = [1.8e8;2.2e8]N/m^2. Stała grawitacji G = 6.67e-11Nm^2/kg^2. Odległość
+Ziemia - Księżyc wynosi 384000km.
+
+s1 = 6.67e-11*mz*(1/81)*mz/(384e6*384e6*w1)
+r1 = Math.sqrt(s1/Math.PI)
+d1 = 2*r1
+---

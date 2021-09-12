@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Planetoida
+---
+Pewna planetoida ma kształt elipsoidy obrotowej o stosunku promieni
+równikowego do biegunowego wynosi k1 = [0.8;1.2]. Oblicz przyspieszenie
+grawitacyjne na biegunie, jeżeli  na równiku wynosi ono g1 = [5;10]
+m/s^2.
+
+g2 = g1*k1*k1
+---

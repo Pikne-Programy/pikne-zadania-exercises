@@ -1,0 +1,22 @@
+---
+type: EqEx
+name: Trzy masy
+img: trzy3.jpg
+---
+Masa punktowa m2 = [3e8;9e8] kg i  dwie jednakowe masy m1 = [2e5;9e5] kg
+leżą na jednej prostej, przy czym a1 = [2e12;9e12] m , a b1 = [2e11;9e11]
+m. Oblicz siłę działającą na prawą skrajną masę m1 i porównaj ją z
+siłą która działałaby na ciało o masie 2 * m1 umieszczone w środku
+odcinka b1.
+
+g1 = 6.6732*Math.pow(10, -11)
+s9 = a1+b1
+s1 = m2/Math.pow(s9, 2)
+s2 = m1/Math.pow(b1, 2)
+f2 = m1*g1*(s1+s2)
+
+
+p1 = a1+b1/2
+f4 = 2*m1*g1*(m2/Math.pow(p1, 2))
+x1 = f2/f4
+---

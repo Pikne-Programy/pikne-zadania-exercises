@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Połączone kondensatory
+---
+Dane są dwa jednakowe kondensatory. Jeden z nich naładowano do
+napięcia U1 = [100;400] V. Drugiego nie naładowano. Nastepnie oba
+kondensatory połaczono równolegle. Jak zmieniła sie energia układu po
+połączeniu?
+
+x1 = 1/2
+---

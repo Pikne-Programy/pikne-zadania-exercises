@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Prędkośc protonu
+---
+Jaką prędkośc ma proton, jeżeli bez odchylania od swego pierwotnego
+kierunku przechodzi przez układ wzajemnie prostopadłych pól:
+magnetycznego o indukcji B1 = [2;4]T oraz elektrycznego o natężeniu
+E1 = [1000;1100]V/m. Proton porusza się w kierunku prostopadłym zarówno
+do wektora E jak i B.
+
+V1 = E1/B1
+---

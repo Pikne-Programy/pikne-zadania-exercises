@@ -1,0 +1,15 @@
+---
+type: EqEx
+name: Samochód 2 2 2
+---
+Zakładając, że ruch tłoka w cylindrze silnika samochodowego jest
+ruchem harmonicznym, znajdź  maksymalną wartość przyspieszenia tłoka,
+jeśli samochód porusza się z szybkością v1 = [30;100] km/h na biegu
+bezpośrednim, promień kół r1 = [100;400] mm, a odległość pomiędzy
+skrajnymi położeniami tłoka l1 = [50;250] mm.
+
+r1 = r1/1000
+l1 = l1/1000
+v1 = v1/3.6
+am = v1*v1*l1/2/r1/r1
+---

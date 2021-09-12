@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Lot do gwiazd
+---
+Z jaką minimalną prędkością powinna poruszać się rakieta aby odległość
+do najbliższej gwiazdy (4 lata świetlne)  i z powrotem przebyć w
+czasie t1 = [10;15] lat liczonym wewnątrz rakiety? Wynik wyraź w ułamku
+prędkości światła.
+
+v2 = 8/Math.sqrt(t1*t1+64)
+---

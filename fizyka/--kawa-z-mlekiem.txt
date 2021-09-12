@@ -1,0 +1,15 @@
+---
+type: EqEx
+name: Kawa z mlekiem
+---
+W styropianowym kubku znajduje się 200 ml kawy o temperaturze
+t1 = [80;90] st. C. Ile mleka o temperaturze t2 = [5;15] st. C należy wlać
+do kubka aby obniżyć temperaturę mieszaniny do tk = [60;70] st. C?
+Ciepło właściwe mleka wynosi cm = 3850 J/kgK, ciepło właściwe wody
+cw = 4200J/kgK.
+
+m1 = 0.2
+cm = 3850
+cw = 4200
+m2 = m1*cw*(t1-tk)/(cm*(tk-t2))
+---

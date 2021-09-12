@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: ¬ródło2
+---
+¬ródło dźwięku o częstotliwości f1 = [400;600] Hz obraca się po kole o
+promieniu r1 = [1;2] m z częstotliwością kołową W1 = [1;3] rad*s-1. Jaka
+jest najwyższa częstotliwość dźwięku słyszanego przez nieruchomego
+obserwatora znajdującego się w tej samej płaszczyźnie co koło, w
+odległości znacznie większej od promienia koła?
+
+f2 = ((f1*340)/(340-W1*r1))
+---

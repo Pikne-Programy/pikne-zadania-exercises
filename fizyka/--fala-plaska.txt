@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Fala płaska
+---
+Jaka jest odległość między sąsiednimi grzbietami fali płasiej, której
+prędkość rozchodzenia się v1 = [400;600] m/s a jej częstotliwość
+f1 = [50;200] Hz.
+
+s1 = v1/f1
+---

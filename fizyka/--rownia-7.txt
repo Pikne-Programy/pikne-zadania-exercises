@@ -1,0 +1,16 @@
+---
+type: EqEx
+name: Równia 3 2
+img: pmerownia3.jpg
+---
+Po gładkim stole porusza się klocek o masie m1 = [1.0;10.0] g z
+prędkością v1 = [1;10] m/s w stronę równi pochyłej o masie
+m2 = [10.0;20.0] g. Jak wysoko wjedzie klocek na równię, gdy nie ma
+tarcia między klockiem a równią oraz równią a stołem? Przyjmij g = 10
+m/s^2.
+
+m1 = m1/1000
+m2 = m2/1000
+ul = (1-m1/(m1+m2))/(2*10)
+h1 = Math.pow(v1,2)*ul
+---

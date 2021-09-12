@@ -1,0 +1,14 @@
+---
+type: EqEx
+name: Promień okręgu
+---
+Jaki będzie promień okręgu zatoczonego przez cząstkę alfa w polu o
+indukcji B1 = [10;10.5]T, jeżeli energia cząstki E1 = [10.00;12.00]MeV?
+Cząstka wpada w pole magnetyczne prostopadle do kierunku wektora
+indukcji magnetycznej B.
+
+ma = 6.68e-27
+q1 = 2*1.6e-19
+E1 = E1*1.6e-19*1e6
+R1 = ma/(q1*B1)*Math.sqrt(2*E1/ma)
+---

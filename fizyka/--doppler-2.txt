@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Doppler 2
+---
+Obserwator znajduje się między źródłem dźwięku o częstotliwości
+f1 = [100;200] Hz i gładką pionową ścianą. Gdy biegnie on w kierunku
+ściany z prędkością u1 = [10;20] km/h słyszy dudnienia. Znajdź
+częstotliwość tych dudnień. Prędkość dźwięku  340m/s.
+
+u2 = u1*1000/3600
+vd = 2*f1*u2/340
+---

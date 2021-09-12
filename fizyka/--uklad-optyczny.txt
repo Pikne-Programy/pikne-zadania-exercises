@@ -1,0 +1,13 @@
+---
+type: EqEx
+name: Układ optyczny
+---
+Układ optyczny składa się z dwóch soczewek skupiających o ogniskowych
+f1 = [20;40]cm i f2 = [10;20]cm znajdujących się w odległości
+l1 = [45;45]cm. Znaleźć położenie obrazu, jeżeli przedmiot o rozmiarach
+znacznie mniejszych od f1 i f2 znajduje się na osi optycznej na
+zewnątrz układu, w odległości a1 = [41;55]cm od pierwszej soczewki.
+
+c1 = f1*a1/(a1-f1)-l1
+b1 = f2*c1/(f2+c1)
+---

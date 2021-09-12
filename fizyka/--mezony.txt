@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Mezony
+---
+¦redni czas życia spoczywającego mezonu wynosi t1 = 1mikrosekunda. Jaką
+drogę przebywają mezony względem laboratorium poruszając się z
+prędkością v1 = [0.9;0.98] c względem Ziemi. Wynik podaj w m.
+
+t1 = 1e-6
+t2 = t1/Math.sqrt(1-v1*v1)
+s2 = t2*v1*3e8
+---

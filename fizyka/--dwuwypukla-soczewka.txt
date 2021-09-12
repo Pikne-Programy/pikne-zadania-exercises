@@ -1,0 +1,13 @@
+---
+type: EqEx
+name: Dwuwypukła soczewka
+---
+Cienka dwuwypukła soczewka zrobiona jest ze szkła, którego
+współczynnik załamania względem powietrza wynosi n1 = [1.4;1.7].
+Ogniskowa tej soczewki w powietrzu wynosi f1 = [15;25]cm. Jaka będzie
+długość ogniskowej tej soczewki, jeżeli umieścimy ją w przezroczystym
+ośrodku, którego współczynnik załamania względem powietrza n2 = [1.8;2]?
+
+wynik.value  =  -wynik.value
+wy = -((n1-1)/((n1/n2)-1))*f1
+---

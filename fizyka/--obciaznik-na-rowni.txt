@@ -1,0 +1,14 @@
+---
+type: EqEx
+name: Obciążnik na równi
+img: rowniaobciaznik.jpg
+---
+Obciążnik o masie m1 = [5.0;10.0]kg wciągany jest na równię pochyłą o
+kącie nachylenia a1 = [20.0;40.0]stopni, pod działaniem siły
+F1 = [30.0;50.0]N tworzącej kąt b1 = [20.0;40.0]stopni z płaszczyzną
+równi. Na jaką odległość od podstawy równi przesunie się obciążnik,
+gdy jego prędkość będzie wynosiła v1 = [2.0;6.0]m/s. Siły tarcia można
+pominąć. Przyjmij g = 10 m/s^2.
+
+s1 = (m1*(v1*v1))/(2*(F1*Math.cos(b1)-m1*10*Math.sin(a1)))
+---

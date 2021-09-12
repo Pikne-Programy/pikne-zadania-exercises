@@ -1,0 +1,256 @@
+  - praca, moc, energia:
+    - samochod-5
+    - sanki-4
+    - parowoz
+    - kula-3
+    - dwa-ciala-2
+    - zsuwanie
+    - klocek
+    - zderzenie-1
+    - zderzenie-2
+    - zderzenie-3
+    - rownia-5
+    - rownia-6
+    - rownia-7
+    - stosunek-energii
+    - slup-telegraficzny
+    - ciezarowka
+    - kamien-4
+    - walec-1
+    - pocisk-5
+    - obciaznik-na-rowni
+  - bryła:
+    - kula-4
+    - pret-1
+    - rura-gruboscienna
+    - pret-2
+    - walec-2
+    - walec-3
+    - walec-4
+    - kwadrat-1
+    - kwadrat-2
+    - kwadrat-3
+    - bryla-1
+    - bryla-2
+    - tarcza-1
+    - elipsa
+    - krazki
+    - kolo-zamachowe
+  - ciała stałe:
+    - szeregowo
+    - rownolegle
+    - gumka
+    - drut-olowiany
+    - wirujacy-pret
+    - pret-olowiany
+    - dwa-prety
+    - szescian
+    - wydluzenie-preta
+    - stalowy-drut-1
+    - stalowy-drut-2
+  - ciecze:
+    - rzut-ciala-do-cieczy
+    - cisnienie-dwucieczy
+    - u-rurka-1
+    - u-rurka-2
+    - u-rurka-3
+    - gestosc-oleju
+    - l-rurka
+    - kra
+    - statek-2
+- grawitacja:
+  - prawo ciążenia:
+    - lina-ziemia-ksiezyc
+    - natezenie-zerowe
+    - planetoida
+  - natężenie:
+    - natezenie-2cial
+    - potencjal-2cial
+    - gwiazda-i-planeta
+    - ksiezyc
+    - w-gorach
+    - trzy-masy
+    - natezenie-trojkat
+    - potencjal-trojkat
+    - stacja-kosmiczna
+    - planeta
+    - predkosc-ksiezyca
+    - masa-gwiazdy
+  - energia:
+    - dwie-kule
+    - tunel
+  - potencjał (puste): []
+  - predkosci kosmiczne (puste): []
+  - prawa Keplera:
+    - jowisz
+    - kometa-halleya
+    - predkosc-komety
+- drgania:
+  - harmoniczne:
+    - wahadlo-foucaulta
+    - odwaznik
+    - energia-1
+    - wahadlo-1
+    - wahadlo-2
+    - u-rurka-4
+    - samochod-6
+    - wagon-2
+    - punkt-1
+    - punkt-2
+    - punkt-3
+  - tlumione (puste): []
+  - wymuszone (puste): []
+  - rezonans (tylko duplikat???):
+    - wahadlo-foucaulta
+- fale:
+  - rownanie falowe:
+    - fala-plaska
+    - dwa-punkty
+  - akustyka:
+    - dwa-dzwieki
+    - jeden-dzwiek
+    - prog-slyszalnosci
+    - zmiana
+    - doppler-1
+    - doppler-2
+    - doppler-3
+    - doppler-4
+    - syrena
+    - glosnik
+    - gwizdek
+    - zrodlo-1
+    - zrodlo-2
+    - samochod-7
+    - samochod-8
+    - biegacz-2
+    - maszyny
+- termodynamika:
+  - energia, temperatura:
+    - zero-bezwzgledne
+    - temperatura-azotu
+    - predkosc-tlenu
+    - balon
+  - bilans:
+    - kawa-z-mlekiem
+    - kubki-z-woda
+    - dwie-wody
+    - trzy-wody
+    - napoj-z-lodem
+  - przewodnictwo:
+    - domek
+  - rownanie Clapeyrona:
+    - tlen
+    - azot-1
+    - gaz-w-pojemniku
+    - zbiornik-z-gazem
+    - wysokosc
+    - butla
+    - naczynia-polaczone
+    - pecherzyk
+    - kula-5
+    - odleglosci
+    - azot-2
+    - temperatura
+    - energia-2
+    - zbiorniki
+    - masa
+  - przemiany:
+    - rurka-meldego
+    - pompka
+    - naczynie
+    - strzykawka
+    - cylinder-1
+    - pionowa-rurka
+    - zbiornik
+    - cylinder-2
+    - gaz-2atom
+    - zad618
+    - wykres620
+    - dwa-naczynia
+  - cykle:
+    - sprawnosc-1
+    - sprawnosc-2
+    - sprawnosc-3
+    - idealny-1
+    - idealny-2
+    - idealny-3
+    - idealny-4
+    - dwa-carnoty
+- elektrostatyka:
+  - pole elektrostatyczne:
+    - wahadlo-3
+  - pojemnosć:
+    - dielektryk-1
+    - dielektryk-2
+    - polaczone-kule
+    - polaczone-kondensatory
+  - energia:
+    - energia-3
+    - energia-4
+  - ruch ładunkow (puste): []
+- prad:
+  - opory zastępcze:
+    - szeregowe-zarowki
+    - rownolegle-zarowki
+    - piec-opornikow
+    - drabina-opornikow
+  - prąd stały:
+    - predkosc-unoszenia
+    - grzalki
+    - gotowanie
+  - obwody:
+    - dwie-zarowki
+    - moc-opornika
+    - prawa-kirchhoffa
+- magnetyzm:
+  - natężenie pola:
+    - kierunek-pola
+  - siła elektrodynamiczna:
+    - przewodniki
+    - szyny
+  - siła Lorentza:
+    - cyklotron
+    - energia-czastki
+    - promien-okregu
+    - stosunek-promieni
+    - deuteron-i-proton
+    - roznica-potencjalow-protonu
+    - promien-okregu-dla-protonu
+    - skok-sruby
+    - predkosc-protonu
+  - zjawisko Halla (puste): []
+- indukcja:
+  - indukcja:
+    - ramka
+    - samolot-2
+  - prąd zmienny:
+    - natezenie-1
+    - natezenie-2
+  - obwody RLC (puste): []
+- optyka:
+  - zwierciadła:
+    - teleskop
+    - zwierciadlo-sferyczne
+    - teleskop-zwierciadlany
+  - pryzmat (puste): []
+  - soczewki:
+    - zdjecie
+    - soczewka
+    - dwa-zrodla-swiatla
+    - dwuwypukla-soczewka
+    - uklad-optyczny
+    - pret-4
+    - wiazka-promieni
+  - polaryzacja:
+    - plytka-rownolegloscienna
+    - kat-brewstera
+- fizyka wspołczesna:
+  - atom (puste): []
+  - zjawisko fotoelektryczne:
+    - platyna
+    - katoda
+  - ciało doskonale czarne (puste): []
+  - teoria względnosci:
+    - lot-do-gwiazd
+    - adam-i-ewa
+    - mezony

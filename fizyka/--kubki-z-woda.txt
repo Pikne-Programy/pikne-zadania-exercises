@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Kubki z wodą
+---
+Dane są dwa kubki zawierające wodę o temperaturze t1 = [10;20] st C i
+masach m1 = [100;150] g i m2 = [151;200] g. Do jakiej temperatury należy
+podgrzać wodę w drugim kubku aby po zmieszaniu otrzymać wodę o
+temperaturze tk = [30;40] st. C.
+
+t2 = (m1*(tk-t1)+m2*tk)/m2
+---

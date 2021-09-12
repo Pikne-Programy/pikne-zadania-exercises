@@ -1,0 +1,9 @@
+---
+type: EqEx
+name: Natężenie 2
+img: nat2.jpg
+---
+Oblicz natężenie skuteczne prądu przedstawionego na wykresie.
+
+I1 = Math.sqrt(10/3)
+---

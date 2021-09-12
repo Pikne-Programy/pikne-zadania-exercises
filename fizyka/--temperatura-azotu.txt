@@ -1,0 +1,15 @@
+---
+type: EqEx
+name: Temperatura azotu
+---
+Oblicz temperaturę azotu (w K) zamkniętego w zbiorniku, jeżeli wartość
+średniej szybkości kwadratowej (pierwiastek z vsr^2) wynosi
+vs = [450;550] m/s. Wyprowadź odpowiedni wzór a następnie oblicz.
+Przyjmij stała Boltzmanna k = 1.38e-23, stała Avogadro NA = 6.023e23
+1/mol.
+
+mi = 0.028
+NA = 6.023e23
+k1 = 1.38e-23
+ta = mi*vs*vs/(NA*3*k1)
+---

@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Pręt
+---
+Na końcach bardzo lekkiego pręta o długości L1 = [50;70] cm umocowane są
+dwie kulki o jednakowych masach. Kulki poruszają się z różnymi
+prędkościami V1 = [1,8;2,2] m/s i V2 = [2,3;3] m/s w tym samym kierunku i
+tym samym zwrotem. Oblicz prędkość kątową środka pręta.
+
+R1 = (V1*L1)/(V2-V1)/100
+w1 = V1/R1
+---

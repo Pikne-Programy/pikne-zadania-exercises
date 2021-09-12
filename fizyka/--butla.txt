@@ -1,0 +1,13 @@
+---
+type: EqEx
+name: Butla
+---
+Butlę o objętości V1 = [10;30] dm^3 napełniono tlenem o temperaturze
+t1 = [10;20] st.C . Ciśnienie tlenu wynosiło p1 = [2e6;3e6] Pa. Na skutek
+nieszczelności zaworu tlen ulatniał się z butli. Po pewnym czasie
+wykonano pomiar ciśnienia w temperaturze t2 = [37;50] st. C i
+stwierdzono, że mimo wzrostu temperatury nie uległo ono zmianie.
+Oblicz masę gazu, który ulotnił się z butli.
+
+m1 = p1*V1*1e-3*0.032/8.31*(t2-t1)/((t1+273)*(t2+273))
+---

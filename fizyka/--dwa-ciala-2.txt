@@ -1,0 +1,9 @@
+---
+type: EqEx
+name: Dwa ciała 2
+---
+Stosunek energii kinetycznej dwóch ciał wynosi n1 = [36;49], a stosunek
+ich mas k1 = [4;9]. Oblicz stosunek prędkości ciał.
+
+st = Math.sqrt(n1/k1)
+---

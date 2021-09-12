@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Walec 2
+img: waa.jpg
+---
+Oblicz moment bezwładności walca przedstawionego na rysunku o masie
+m1 = [10;20]kg, promieniu R1 = [10;20]cm względem osi przechodzącej przez
+punkt A.
+
+R1 = R1/100
+w1 = 29/24*m1*R1*R1
+---

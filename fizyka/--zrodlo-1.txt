@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: ¬ródło1
+---
+Na prostej prostopadłej do ściany znajdują się dwaj obserwatorzy.
+Między nimi umieszczone jest źródło dźwięku o częstotliwości
+f1 = [1000;1500] Hz poruszające się z prędkością V1 = [1;2] m/s w stronę
+ściany. Który z obserwatorów usłyszy dudnienia i jaka będzie ich
+częstotliwość, jeżeli prędkość dźwięku V2 = 340 m/s?
+
+f2 = ((680*V1*f1)/(115600-V1*V1))
+---

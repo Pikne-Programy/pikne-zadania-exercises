@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Sanki 2 2
+---
+Sanki zjeżdżają z góry o długości s1 = [20;40] m nachylonej do poziomu
+pod kątem k1 = [30;50] st. a następnie poruszają się poziomo. Jaką drogę
+przejadą sanki po torze poziomym, jeżeli na całej trasie współczynnik
+tarcia wynosi f1 = [0.1;0.2]?
+
+k2 = k1*Math.PI/180
+s2 = s1*(Math.sin(k2)-f1*Math.cos(k2))/f1
+---

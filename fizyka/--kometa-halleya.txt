@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Kometa Halley'a
+---
+Okres obiegu komety Halley'a wynosi 76 lat, zaś mimośród orbity
+e = 0.967. Oblicz największą i najmniejszą odległość komety od Słońca. W
+polu wprowadź wynik podaj odległość największą w jednostkach
+astronomicznych. <a href = http://pl.wikipedia.org/wiki/Kometa_Halleya
+target = _blank>Więcej o komecie Halley'a</a>
+
+x1 = 35
+---

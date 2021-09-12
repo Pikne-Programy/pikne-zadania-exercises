@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Maszyny
+---
+W fabryce pracuje 20 maszyn. Kazda wytwarza halas o natezeniu 2e-6
+W/m^2. Ile maszyn nalezy wylaczyc aby poziom natezenia dzwieku zmalal
+do 70 dB.
+
+N2 = 15
+---

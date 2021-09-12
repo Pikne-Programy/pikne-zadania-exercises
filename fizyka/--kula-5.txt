@@ -1,0 +1,18 @@
+---
+type: EqEx
+name: Kula 2 2 2
+---
+W kuli o średnicy wewnętrznej d1 = [10;50] cm znajduje się azot o masie
+m1 = [1;8] g i tlen o masie m2 = [1;8] g. Do jakiej temperatury można
+ogrzewać gazy w kuli, jeżeli wytrzymuje ona ciśnienie p1 = [2e5;5e5] Pa.
+Masa molowa azotu to 28 g/mol, a tlenu to 32 g/mol. Wynik podaj w
+stopniach Celsjusza.
+
+M1 = 28
+M2 = 32
+n1 = m1/M1
+n2 = m2/M2
+r1 = d1/200
+T1 = (p1*4/3*3.14*Math.pow(r1,3))/(8.31*(n1+n2))
+T1 = T1-273
+---

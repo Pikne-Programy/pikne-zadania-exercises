@@ -1,0 +1,15 @@
+---
+type: EqEx
+name: Rurka Meldego
+img: rurka.jpg
+---
+Poziomo leżąca rurka Meldego porusza się ruchem jednostajnie
+przyspieszonym a1 = [1;3]m/s^2 (rys). Długośc słupka powietrza podczas
+ruchu wynosi l1 = [20;40] cm, a długość słupka rtęci b1 = [20;30] cm. Jaką
+długość będzie miał słupek powietrza po zatrzymaniu się rurki i
+wyrównaniu temperatur? Gęstość rtęci d1 = 13.6e3kg/m^3, a ciśnienie
+atmosferyczne pa = 1040hP.
+
+pa = 1040
+x1 = l1*0.01*(1-13.6e3*b1*0.01*a1/(pa*100))
+---

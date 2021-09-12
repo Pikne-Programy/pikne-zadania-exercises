@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Cylinder
+---
+W pionowo ustawionym cylindrycznym naczyniu, pod lekkim tłokiem o polu
+przekoju S1 = [0.01;0.04] m^2, znajduje się gaz doskonały o temp.
+T1 = [280;330] K i obj. V1 = [2*e-3;5e-3] m^3 . O ile przesunie się tłok
+po ogrzaniu gazu do  T2 = [350;400] K?
+
+x1 = V1/S1
+a1 = (x1*(T2-T1))/T1
+---

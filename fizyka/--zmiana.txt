@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Zmiana
+---
+Zrodlo dzwieku wydaje dzwiek o mocy P. Obserwator znajduje sie w
+odleglosci 15 m od zrodla dzwieku. Oddalenie zrodla od obserwatora
+spowodowalo zmiejszenie poziomu natezenia dzwieku o 20 dB. O ile
+oddalono zrodlo?
+
+dx = 135
+---

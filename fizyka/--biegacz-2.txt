@@ -1,0 +1,13 @@
+---
+type: EqEx
+name: Biegacz 2
+img: biegacz.gif
+---
+Syrena wydaje dzwiek o czestotliwosci fz = [800;1000] Hz i znajduje sie
+w odleglosci 100 m od sciany. Biegacz biegnie w kierunku sciany i
+szlyszy dudnienia o czestotliwosci fD = [4;6] Hz. Oblicz predkosc
+biegacza.
+
+vf = 340
+vo = fD*vf/(2*fz)
+---

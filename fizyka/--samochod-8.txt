@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Samochód2
+---
+Samochód wydaje dźwięk o częstotliwości f1 = [500;510] Hz i porusz a się
+w kierunku stojącego na poboczu obserwatora. Z jaką prędkością porusza
+się samochód jeżeli obserwator słyszy dźwięk o częstotliwości
+f2 = [520;530] Hz?
+
+vf = 340
+vz = (vf*(f2-f1))/f2
+---

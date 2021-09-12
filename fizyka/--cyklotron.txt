@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Cyklotron
+---
+Oblicz częstotliwość f1 zmian pola elektrycznego w cyklotronie, za
+pomocą którego przyspieszamy protony. Indukcja stosowanego pola
+magnetycznego wynosi B1 = [1.2;1.5] T.
+
+e1 = 1.6e-19
+mp = 1.67e-27
+f1 = e1*B1/(2*3.14*mp)
+---

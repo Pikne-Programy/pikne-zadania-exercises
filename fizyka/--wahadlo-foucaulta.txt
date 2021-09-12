@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Wahadło Foucaulta
+---
+Oblicz okres drgań wahadła Foucaulta w VIII LO o długości l1 = [10;10.5]
+m i masie m = 8.9kg zawieszonego na lince stalowej. Przyjmij g = 9.81
+m/s^2.
+
+g1 = 9.81
+T1 = 2*Math.PI*Math.sqrt(l1/g1)
+---

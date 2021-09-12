@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Punkt 1
+---
+Po jakim czasie od chwili początkowej punkt materialny wykonujący
+drgania harmoniczne przesunie się na odległość równą połowie
+amplitudy, jeżeli faza początkowa drgań była równa fi = [0;10] rad, a
+okres drgań T1 = [1;20] s?
+
+t2 = T1/12/Math.PI*(Math.PI-6*fi)
+---

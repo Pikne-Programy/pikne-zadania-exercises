@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Energia 1
+---
+Do połączonych szeregowo kondensatorów o pojemnościach C1 = [1;4]
+mikrofarada oraz C2 = [5;10] mikrofarada przyłożono różnicę potencjałów
+U1 = [200;500] V. Oblicz energię tego układu.
+
+C1 = C1*1e-6
+C2 = C2*1e-6
+W1 = 0.5*U1*U1*C1*C2/(C1+C2)
+---

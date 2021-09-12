@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Kra
+---
+Kra lodowa w kształcie prostopadłościanu o masie m1 = [1;5] ton i
+wymiarach a1 = [2;3] m i b1 = [3;5] m pływa w wodzie morskiej o gęstości
+rw = [1010;1030] kg/m^3. Oblicz wysokość wynurzenia kry z wody. Gęstość
+lodu rk = [900;950]kg/m^3.
+
+h1 = m1*1000/(a1*b1*rk)*(1-rk-rw)
+---

@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Gumka
+---
+Gumka od długości l1 = [10;20]cm , polu przekroju S1 = [1;2] mm^2 i module
+Younga E = [10;20] Pa wydłuża się o x1 = [2;3]cm po zawieszeniu na niej
+pewnego odważnika. O ile wydłuży się ta gumka po złożeniu jej na
+połowę i zawieszeniu na niej tego samego obciążnika?
+
+x2 = x1/4;
+---

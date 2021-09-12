@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Sprawność 2
+img: sprawnosc2.jpg
+---
+Oblicz sprawność cyklu termodynamicznego przedstawionego na rysunku,
+jeżeli ciałem roboczym jest gaz doskonały. Wynik podaj w procentach.
+
+s1 = 16.7
+---

@@ -1,0 +1,13 @@
+---
+type: EqEx
+name: Pręt ołowiany
+---
+Pręt ołowiany długosci l1 = [2;3]m podnoszony jest do góry pod
+działaniem siły przyłożonej do górnego końca pręta. Przy jakim
+przyspieszeniu nastąpi zerwanie pręta? Gęstość ołowiu 11300 kg/m^3,
+nastomiast granica wytrzymałości na zerwanie wynosi  W1 = [1.7e7;2e7]
+N/m^2.
+
+d1 = 11300
+a1 = (W1/(d1*l1))-10
+---

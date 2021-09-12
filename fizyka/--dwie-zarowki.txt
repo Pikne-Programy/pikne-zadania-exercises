@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Dwie żarówki
+img: dwiezarowki.jpg
+---
+Dwie żarówki o mocach nominalnych (dla napięcia U) p1 = [50;100]W oraz
+p2 = [10;50]W podłączono szeregowo do źródła napięcia U. Podaj nowy
+stosunek mocy P1/P2 jako ułamek dziesiętny. Zakładamy nie do końca
+słusznie, że opór żarówki jest stały.
+
+s1 = p2/p1
+---

@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Kierunek pola
+---
+W których punktach zaznaczono poprawny zwrot linii pola magnetycznego?
+Wprowadź wartość:<br> 1 dla punktów A,C,E<br> 2 dla punktów A,B,D<br>
+3 dla punktów D,C,E<br>
+
+k1 = 1
+---

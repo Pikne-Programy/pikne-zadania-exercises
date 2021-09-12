@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Samochód
+---
+Samochód poruszał się ruchem jednostajnie przyspieszonym bez prędkości
+początkowej i w czasie t1 = [5;8] s pokonał drogę s1 = [20;35] m. Jaką
+drogę pokona w 10 sekundzie?
+
+a = 2*s1/ (t1*t1)
+s2 = (a/2)*(20-1)
+---

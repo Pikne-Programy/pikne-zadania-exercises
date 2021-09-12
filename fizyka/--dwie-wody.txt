@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Dwie wody
+---
+W jakim stosunku należy zmieszać dwie porcje wody o temperaturach
+t1 = [10;20] st. C i t2 = [60;70] st. C aby uzyskać mieszaninę o
+temperaturze tk = [40;50] st. C?
+
+mm = (t2-tk)/(tk-t1)
+---

@@ -1,0 +1,9 @@
+---
+type: EqEx
+name: Kula 2 2
+---
+Oblicz energię mechaniczną kuli o masie m1 = [1;10] kg i pędzie
+p1 = [15;25] kg*m/s.
+
+em = Math.pow(p1,2)/(2*m1)
+---

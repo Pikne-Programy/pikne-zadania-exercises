@@ -1,0 +1,14 @@
+---
+type: EqEx
+name: Pompka
+---
+Robocza pojemność pompki rowerowej wynosi V1 = [10;20] cm^3. Za pomocą
+tej pompki wtłaczano powietrze do naczynia o pojemności V2 = [100;500]
+cm^3 wykonując N = 15 cykli pompowania. Jakie ciśnienie panuje w
+naczyciu, jeżeli początkowe ciśnienie było równe ciśnieniu
+atmosferycznemu p = 1100 hPa?. Przyjmij, że temperatura gazu jest stała.
+
+N1 = 15
+pa = 110000
+p2 = pa*(1+N1*V1/V2)
+---

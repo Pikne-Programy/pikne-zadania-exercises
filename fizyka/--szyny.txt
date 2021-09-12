@@ -1,0 +1,14 @@
+---
+type: EqEx
+name: Szyny
+---
+Na dwóch równoleglych szynach odleglych od d1 = [30;50] cm lezy
+przewodnik o masie m1 = [20;40] g i promieniu r1 = 1 cm. Układ znajduje
+się w pionowym polu magnetycznym o indukcji B1 = [0.2;0.5] T. Do szyn
+dolaczono napiecie U, w wyniku czego przewodnik porusza sie z
+przyspieszeniem a1 = [2;3] m/s^2. Oblicz napiecie przylozone do szyn,
+jezeli opor przewodnika wynosil R1 = [0.2;0.5] oma. Przewodnik potraktuj
+jako walec o momencie bezwladnosci I = 1/2mr^2.
+
+U1 = (a1*m1*0.001*R1)/(2*B1*d1*0.01)
+---

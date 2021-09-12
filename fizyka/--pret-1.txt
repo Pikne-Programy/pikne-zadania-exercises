@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Pręt 1
+---
+Zawieszony pionowo jednym końcem pręt o długości l1 = [1;2]m odchylamy
+od pionu o kąt a1 = [30;90] stopni, a następnie puszczamy. Oblicz, jaką
+prędkość będzie miał koniec pręta w chwili przechodzenia przez linię
+pionu?
+
+b1 = Math.PI*a1/180
+v1 = Math.sqrt(3*10*l1*(1-Math.cos(b1)))
+---

@@ -1,0 +1,18 @@
+---
+type: EqEx
+name: Napój z lodem
+---
+W lodówce znajdują się pojemniczki do wytwarzania lodu w kształcie
+sześcianików o boku a = 2cm. Zosia przygotowała lód w pojemniczkach.
+Temperatura w lodówce wynosi t1 = [-15;-10] st. C. Na stole stoi napój w
+kubku w ilości m2 = [200;250] g. Zosia wrzuciła do napoju 3 kostki lodu.
+Oblicz, jaka może być teoretycznie najniższa temperatura napoju,
+jeżeli temperatura otoczenia wynosi t2 = [20;25] st. C?
+
+m2 = m2*0.001
+m1 = 3*8e-6*1000
+cw = 4200
+cl = 2000
+L1 = 334000
+tk = (m2*cw*t2+m1*cl*(-t1)-m1*L1)/(cw*(m1+m2))
+---

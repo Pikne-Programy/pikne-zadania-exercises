@@ -1,0 +1,13 @@
+---
+type: EqEx
+name: Prędkość tlenu
+---
+Oblicz wartość średniej szybkości kwadratowej (pierwiastek z vsr^2 )
+tlenu w temperaturze tt = [20;40] st.C.
+
+k1 = 1.38e-23
+NA = 6.023e23
+Tt = tt+273
+mi = 0.032
+vs = Math.sqrt(3*k1*Tt*NA/mi)
+---

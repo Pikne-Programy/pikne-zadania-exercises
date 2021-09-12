@@ -1,0 +1,13 @@
+---
+type: EqEx
+name: Gaz 2-atom.
+---
+Dwuatomowy gaz o objętości V1 = [4;8] dm^3 i temperaturze t1 = [20;30] st.
+C, zostaje sprężony bez wymiany ciepła z otoczeniem do objętości
+V2 = [1;3] dm^3. Oblicz temperaturę końcową gazu st. Celsjusza.
+
+T1 = t1+273
+k1 = 2/5
+T2 = T1*Math.pow((V1/V2),k1)
+T2 = T2-273
+---

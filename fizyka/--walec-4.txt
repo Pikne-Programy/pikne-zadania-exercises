@@ -1,0 +1,17 @@
+---
+type: EqEx
+name: Walec 3
+img: wal.jpg
+---
+Oblicz moment bezwładności walca przedstawionego na rysunku o masie
+m1 = [10;20]kg, promieniu R1 = [10;20]cm oraz promieniu wycięcia
+r1 = [1;8]cm względem osi przechodzącej przez punkt C oddalonej od
+środka walca o d1 = [1;9]cm. Odległość d2 = [0;2]cm.
+
+R1 = R1/100
+r1 = r1/100
+d1 = d1/100
+d2 = d2/100
+g2 = R1-r1-d2
+w1 = m1/2*(2*d1*d1+R1*R1+r1*r1-(2*r1*r1*(g2*g2+g2*d1))/(R1*R1-r1*r1))
+---

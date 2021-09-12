@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Gwizdek
+---
+Moc akustyczna gwizdka wynosi P1 = [2;4]e-6W. Oblicz odległość, z której
+przestajemy słyszeć sygnał gwizdka.
+
+Io = 1e-12
+P1 = P1*1e-6
+r1 = Math.sqrt(P1/(Io*12.56))
+---

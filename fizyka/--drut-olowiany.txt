@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Drut ołowiany
+---
+Jaką największą długość może mieć drut ołowiany, aby wisząc pionowo
+nie uległ zerwaniu pod wpływem własnego ciężaru ? Gęstość ołowiu
+11300 kg/m^3. Granica wytrzymałości na zerwanie wynosi  W1 = [1.7e7;2e7]
+N/m^2.
+
+d1 = 11300
+l1 = W1/(d1*10)
+---

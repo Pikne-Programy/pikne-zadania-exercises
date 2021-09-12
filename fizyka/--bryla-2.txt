@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Bryła 2
+---
+Bryła obracająca się ruchem jednostajnie opóźnionym wykonuje do
+zatrzymania się n1 = [10;30] obrotów w czasie t1 = [10;30] s. Oblicz
+moment siły hamującej, jeżeli moment bezwładności bryły względem osi
+obrotu wynosi I1 = [5;25]kg*m2.
+
+M1 = (4*3.14*n1*I1)/(t1^2)
+---

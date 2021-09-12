@@ -1,0 +1,13 @@
+---
+type: EqEx
+name: Tarcza 1
+---
+Na środku tarczy o momencie bezwładności I1 = [1900;2100]kg*m2,
+obracającej się swobodnie wokół pionowej osi, stoi człowiek o masie
+m1 = [50;70] kg. W pewnej chwili człowiek przechodzi na brzeg tarczy
+tak, że prędkość kątowa maleje n1 = [1.5;3.5] raza. Oblicz promień
+tarczy pomijając moment bezwładności człowieka względem pionowej osi
+ciała.
+
+R1 =  Math.sqrt((I1*(n1-1))/m1)
+---

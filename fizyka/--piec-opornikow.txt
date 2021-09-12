@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Pięć oporników
+img: piecopornikow.jpg
+---
+Oblicz opór układu przedstawionego na rysunku. Każdy z widocznych
+rezystorów ma opór równy R1 = [1;20] omów.
+
+Rz = 7*R1/3
+---

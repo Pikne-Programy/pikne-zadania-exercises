@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Odważnik
+---
+Na sprężynie zawieszono odważnik, w wyniku czego sprężyna wydłużyła
+się o x1 = [1;10] cm. Następnie odważnik pobudzono do drgań. Oblicz
+okres drgań odważnika.Przyjmij g = 10 m/s^2.
+
+T1 = 2*Math.PI*Math.sqrt((x1/100)/10)
+---

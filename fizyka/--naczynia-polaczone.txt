@@ -1,0 +1,18 @@
+---
+type: EqEx
+name: Naczynia połączone
+---
+Dwa identyczne naczynia połączone cienką rurką zawierają gaz w
+temperturze t0 = [0;10] st. C i pod ciśnieniem p0 = [870;1400] hPa.
+Oblicz, jakie ciśnienie ustali się w obu naczyniach, jeśli jedno z
+nich będziemy utrzymywać w t1 = [10;50] st. C, a drugie w t2 = [10;70] st.
+C. Załóż , że rurka pozwala na wyrównywanie ciśnienia, a uniemożliwia
+wyrównanie temperatur w obu naczyniach. Załóż, że na początku w każdym
+z naczyń było po n moli gazu.
+
+T0 = t0+273
+T1 = t1+273
+T2 = t2+273
+p0 = p0*100
+p1 = (2*p0*T1*T2)/(T0*(T1+T2))
+---
