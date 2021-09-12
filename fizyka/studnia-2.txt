@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Studnia 2
+---
+Do głębokiej studni puszczono kamień. Plusk wody usłyszano po tc = [2;5]
+s. Oblicz głębokość studni. przyjmij g1 = [9;10]m/s^2 a prędkość dźwięku
+v1 = [330;340] m/s.
+
+t1 = (-v1+Math.sqrt(v1*(v1+2*g1*tc)))/g1
+h1 = g1*t1*t1/2
+---

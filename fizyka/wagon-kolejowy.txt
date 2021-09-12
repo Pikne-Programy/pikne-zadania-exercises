@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: 8.Wagon kolejowy
+---
+Wagon kolejowy o masie m1 = [10;30] t poruszający się z prędkością
+v1 = [10;20] m/s został zahamowany w czasie t1 = 1 min 40 s. Oblicz siłę
+hamującą.
+
+t1 = 100
+f1 = (m1*1000*v1)/t1
+---

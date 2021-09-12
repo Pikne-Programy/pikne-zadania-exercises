@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Równia 1
+img: rownia.gif
+---
+Ciało zsuwa się z równi pochyłej o kącie nachylenia k1 = [10;40] stopni.
+Oblicz przyspieszenie ciała.
+a1 = 10*Math.sin(k1*Math.PI/180)
+
+---

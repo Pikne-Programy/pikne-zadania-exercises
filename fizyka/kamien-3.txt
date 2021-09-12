@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Kamień 2
+---
+Pod jakim kątem do poziomu trzeba rzucić ciało, aby największa
+wysokość, na jaką się wzniesie była równa połowie zasięgu rzutu?
+
+l1 = Math.atan(2)
+l1 = l1*180/Math.PI
+---

@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: 9.Samochód
+---
+Oblicz czas hamowania samochodu o masie m1 = [1000;1500] kg jadącego z
+prędkością v1 = 72 km/h, jeśli siła hamująca wynosi F1 = [1800;2200] N.
+
+v1 = 20
+t1 = (m1*v1)/F1
+---

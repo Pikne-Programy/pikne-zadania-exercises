@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Wózek 2
+img: rys_4.jpg
+---
+Wózek zjeżdża ze szczytu górki o wysokości h1 = [4;7] m i kącie
+nachylenia a1 = [10;35] stopni. Oblicz współczynnik tarcia, jeżeli po
+zjechaniu z górki przejechał jeszcze drogę s1 = [20;40] m.
+
+f1 = h/(Math.ctg(a1)*(h+s1)
+---

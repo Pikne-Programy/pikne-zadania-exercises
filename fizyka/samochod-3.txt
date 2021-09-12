@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Samochód 1
+---
+W jakim najkrótszym czasie samochód może osiągnąć prędkość 100 km/h
+jeżeli współczynnik tarcia wynosi f1 = [0.5;1] jeżeli silnik pracuje z
+maksymalnie optymalną mocą?
+
+v1 = 100*1000/3600
+t1 = v1/(10*f1)
+---

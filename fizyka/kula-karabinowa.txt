@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Kula karabinowa
+---
+Kula karabinowa wystrzelona poziomo z prędkością początkową
+v0 = [800;840] m/s upadła na ziemię w odległości l1 = 410 m od lufy. Ile
+czasu trwał lot pocisku?
+
+t1 = 410/v0
+---

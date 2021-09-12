@@ -1,0 +1,15 @@
+---
+type: EqEx
+name: Wirownica
+img: wirownica.jpg
+---
+Moneta znajduje się na skraju tarczy gramofonowej o promieniu
+r1 = [9;13] cm umieszczonej na wirownicy. Wirownicę wprawiono w ruch i
+zwiększano jej prędkość. Przy częstotliwości f1 = [40;60] obrotów/min
+moneta spadła z tarczy. Oblicz współczynnik tarcia monety o tarczę.
+Przyjmij g = 10 m/s^2.
+
+r1 = r1/100
+f1 = f1/60
+fs = 4*Math.PI*Math.PI*f1*f1*r1/10
+---

@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Pocisk 2
+---
+Pocisk przeciwlotniczy wystrzelono pod kątem a1 = 30 stopni do poziomu z
+prędkością początkową v0 = [85;95] m/s. Oblicz czas palenia się
+zapalnika opóźniającego, jeśli pocisk ma wybuchnąć w najwyższym
+punkcie lotu. Przyjmij g = 10.
+
+t1 = (v0*0.5)/10
+---

@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: 2.Urobek(2.41)
+---
+W górnictwie stosuje się czasem metodę urobku polegającą na kruszeniu
+skał silnym strumieniem wody. Oblicz siłę, jaką działa strumień wody o
+przekroju poprzecznym S1 = [1;2] cm^2, poruszający się z prędkoscią
+v1 = [40;60] m/s. Załóż, że podczas zderzenia ze ścianą woda traci
+prędkość całkowicie.
+
+F1 = S1*1e-4*v1*v1*1000
+---

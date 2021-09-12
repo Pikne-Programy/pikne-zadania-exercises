@@ -1,0 +1,14 @@
+---
+type: EqEx
+name: Równia 4
+---
+Na ciało o masie m1 = [6;8] kg leżące na równi pochyłej o kącie
+nachylenia a1 = [20;40] stopni działa (oprócz siły ciężkości) do góry
+siła ciągnąca równoległa do równi F1 = [60;80] N. Jaką drogę przebędzie
+ciało w czasie t1 = [2;5] s? Przyjmij g = 10 m/s^2.
+
+a1 = a1*Math.PI/180
+Fz = m1*10*Math.sin(a1)
+as = (F1-Fz)/m1
+s1 = as*t1*t1/2
+---

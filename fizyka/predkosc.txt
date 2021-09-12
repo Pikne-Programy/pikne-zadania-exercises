@@ -1,0 +1,13 @@
+---
+type: EqEx
+name: Prędkość
+---
+Ciało rzucono ukośnie z prędkością v0 = [20;30] m/s pod kątem a1 = [40;60]
+stopni do poziomu. Oblicz wartość prędkości ciała na wysokości
+h1 = [3;5] m.
+
+a1 = a1*Math.PI/180
+vx = v0*Math.cos(a1)
+vy = v0*Math.sin(a1)-Math.sqrt(2*10*h1)
+vk = Math.sqrt(vx*vx+vy*vy)
+---

@@ -1,0 +1,13 @@
+---
+type: EqEx
+name: Klocek na stole
+img: kloceknastole.jpg
+---
+Na ciało o masie m1 = [1;10] kg leżące na stole działa siła F1 = [1;10] N
+pod kątem a1 = [30;75] stopni. Oblicz prędkość ciała po czasie t1 = [3;8]s
+jeżeli współczynnik tarcia wynosi 0.1.
+
+a1 = a1*Math.PI/180
+a2 = (F1*Math.cos(a1)-0.1*(m1*10-F1*Math.sin(a1)))/m1
+v1 = a2*t1
+---

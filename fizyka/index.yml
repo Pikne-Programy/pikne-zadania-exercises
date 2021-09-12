@@ -48,3 +48,50 @@
     - wagon-1
     - sanki-1
     - droga-hamowania
+  - rzuty:
+    - studnia-2
+    - pocisk-2
+    - pocisk-3
+    - pilka-1
+    - pilka-2
+    - kamien-2
+    - kamien-3
+    - kamyczek
+    - kula-karabinowa
+    - pileczka
+    - predkosc
+  - pęd:
+    - lodolamacz
+    - urobek
+    - szalka
+    - kulki
+    - bloczek
+    - drewniana-kula
+    - cisnienie
+    - wagon-kolejowy
+    - samochod-2
+    - pocisk-4
+    - pociag
+    - pilka-3
+  - tarcie:
+    - rownia-1
+    - rownia-2
+    - rownia-3
+    - rownia-4
+    - sanki-2
+    - sanki-3
+    - dwie-powierzchnie
+    - klocek-na-rowni
+    - samochod-3
+    - samochod-4
+    - platforma
+    - wirownica
+    - klocek-na-stole
+    - krazek
+    - klocki-1
+    - klocki-2
+    - klocki-3
+    - wozek-1
+    - wozek-2
+  - siły bezwładnosci:
+    - stozek

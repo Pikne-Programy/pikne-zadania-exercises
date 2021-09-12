@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: 10.Pocisk
+---
+Pocisk o masie m1 = [5;15] g poruszający się z prędkością v1 = [180;220]
+m/s wbija się w deskę do głębokości l1 = [2;6] cm. Zakładając, że ruch
+pocisku w desce jest jednostajnie opóźniony, oblicz siłę działającą na
+pocisk.
+
+F1 = (m1*0.001*v1*v1)/(2*l1*0.01)
+---

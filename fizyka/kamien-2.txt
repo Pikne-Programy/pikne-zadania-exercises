@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Kamień 1
+---
+Z jakiej wysokości został wyrzucony poziomo kamień z prędkością
+początkową v0 = [20;25], jeżeli upadł w odległości l1 = [45;55] m
+(liczonej wzdłuż powierzchni Ziemi) od miejsca wyrzucenia? Przyjmij
+g = 10.
+
+t1 = l1/v0
+H1 = t1*t1*10/2
+---

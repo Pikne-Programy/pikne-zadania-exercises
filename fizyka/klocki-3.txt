@@ -1,0 +1,13 @@
+---
+type: EqEx
+name: Klocki 3
+img: rys3.jpg
+---
+Do klocka o masie m2 = [4;8] kg leżącego na stole przywiązano linkami
+dwa klocki o masach m1 = [2;5] i m3 = [7.5;9]. Oblicz przyspieszenie
+układu, jeśli współczynnik tarcia wynosi f1 = [0.2;0.3]. Przyjmij g = 10
+m/s^2.
+
+g1 = 10
+a1 = g1*(m3-m1-m2*f1)/(m1+m2+m3)
+---

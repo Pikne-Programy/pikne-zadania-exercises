@@ -1,0 +1,9 @@
+---
+type: EqEx
+name: 11.Pociąg
+---
+Pociąg o masie m1 = [15;25] t poruszający się z prędkością v1 = [10;20]
+m/s został zahamowany w czasie t1 = [20;70] s. Oblicz siłę hamującą.
+
+F1 = (m1*1000*v1)/t1
+---

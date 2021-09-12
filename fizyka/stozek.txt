@@ -1,0 +1,13 @@
+---
+type: EqEx
+name: Stożek
+img: stozek.jpg
+---
+Z jaką prędkością kątową powinno obracać się naczynie stożkowe, aby
+kulka umieszczona w naczyniu wyleciała na zewnątrz? Kąt a1 = [30;60]
+stopni a r1 = [5;10]cm.
+
+a1 = a1*Math.PI/180
+r1 = r1/100
+w1 = Math.sqrt(10/Math.tan(a1)*r1)
+---

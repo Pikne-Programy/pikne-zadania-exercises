@@ -1,0 +1,14 @@
+---
+type: EqEx
+name: Klocki 2
+img: rys2.jpg
+---
+Dwa klocki o masach m1 = [0.7;1.5] kg i m2 = [0.7;1.5] kg położono tak jak
+na rysunku, przymocowując górny klocek linką do ściany. Oblicz, jaką
+minimalną siłą należy działać na dolny klocek, by go wysunąć, jeśli
+współczynnik tarcia między klockami i między klockiem a podłożem
+wynosi f1 = [0.1;0.4]. Przyjmij g = 10 m/s^2.
+
+g1 = 10
+Fm = f1*(m1+m2)*g1
+---

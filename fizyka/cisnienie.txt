@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: 7.Ciśnienie
+---
+Oblicz ciśnienie na powierzchnię ustawioną prostopadle do kierunku
+wiatru wiejącego z prędkością v1 = [10;20] m/s przy założeniu, że
+cząsteczki powietrza tracą swą prędkość całkowicie przy zetknięciu się
+z powierzchnią. Przyjmij gęstość powietrza d = 1.29kg/m^3.
+
+d1 = 1.29
+p1 = d1*v1*v1
+---

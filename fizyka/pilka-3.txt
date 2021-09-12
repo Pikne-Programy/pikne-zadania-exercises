@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: 12.Piłka
+---
+Piłka o masie m1 = [1;5] kg miała w chwili t0 = 0 prędkość v1 = [1;4] m/s i
+po czasie t1 = [5;10] s przebyła drogę s1 = [50;100] m po lini prostej.
+Oblicz wartość siły działającej na piłkę przy założeniu, że jej ruch
+był jednostajnie zmiennym.
+
+F1 = 2*m1/t1*(s1/t1-v1)
+---

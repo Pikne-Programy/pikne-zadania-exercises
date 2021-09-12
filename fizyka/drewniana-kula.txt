@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: 6.Drewniana kula
+---
+Na poziomej płaszczyźnie spoczywa drewniana kula o masie m1 = [1;3] kg.
+Pocisk pistoletowy o masie m2 = [1e-3;10e-3] kg przebija kulę wzdłuż jej
+poziomej średnicy. Prędkość pocisku przed zderzeniem z kulą wynosiła
+v1 = [500;600]m/s a po przebiciu kuli v2 = [100;300] m/s. Z jaką
+prędkością porusza się kula po przejściu przez nią pocisku?
+
+v3 = m2*(v1-v2)/m1
+---

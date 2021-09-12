@@ -1,0 +1,12 @@
+---
+type: EqEx
+name: Piłka 1
+---
+Chłopiec kopnął piłkę pod kątem a1 = [40;50] stopni do poziomu z
+prędkością v0 = [10;15] m/s. Piłka uderzyla w ścianę znajdującą się w
+odległości l1 = [3;4] m od chłopca. Na jakiej wysokości piłka uderzyła w
+ścianę?
+
+a1 = a1*Math.PI/180
+y1 = Math.tan(a1)*l1-10*l1*l1/(2*v0*v0*Math.cos(a1)*Math.cos(a1))
+---

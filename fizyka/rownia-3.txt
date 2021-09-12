@@ -1,0 +1,22 @@
+---
+type: EqEx
+name: Równia 3
+img: rownia3.jpg
+---
+Na równi pochyłej o kątach nachylenia a1 = [10;40] stopni i b1 = [40;70]
+stopni umieszczone są dwa ciała o masach m1 = [300;600] g i m2 = [50;200]
+g, połączone nitką przerzuconą przez nieważki bloczek znajdujący się
+na szczycie równi pochyłej. Współczynnik tarcia obu ciał o równię
+wynosi f1 = [0.1;0.6]. Oblicz wartość przyspieszenia, z jakim poruszają
+się oba ciała. Przyjmij g = 10 m/s^2.
+
+m1 = m1/1000
+m2 = m2/1000
+a1 = a1*Math.PI/180
+b1 = b1*Math.PI/180
+T1 = f1*m1*10*Math.cos(a1)
+T2 = f1*m2*10*Math.cos(b1)
+F1 = m1*10*Math.sin(a1)
+F2 = m2*10*Math.sin(b1)
+au = (F1-T1-F2+T2)/(m1+m2)
+---

@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Kamyczek
+---
+Kamień rzucono poziomo z prędkością początkową v0. Po czasie
+t1 = [0.3;0.9] prędkość kamienia wzrosła n1 = [1.2;2] razy. Oblicz
+prędkość początkową z jaką rzucono kamień.
+
+v0 = 10*t1/Math.sqrt(n1-1)
+---

@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: 1.Lodołamacz(2.40)
+---
+Lodołamacz o masie m1 = [300;1000] ton płynący z prędkością v1 = [5;15]
+m/s z wyłączonym silnikiem zderzył się z krą i zaczął ją pchać z
+prędkością v2 = [2;4] m/s. Oblicz masę kry.
+
+m2 = (m1*v1-m1*v2)/v2*1000
+---

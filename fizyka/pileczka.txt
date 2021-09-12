@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Piłeczka
+---
+Po jakim czasie kąt, jaki tworzy z poziomem wektor prędkości piłeczki
+rzuconej poziomo z prędkością początkową v0 = [10;11], będzie wynosił 45
+stopni? Przyjmij g = 10
+
+t1 = v0/10
+---

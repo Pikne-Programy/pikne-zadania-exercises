@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: 5.Bloczek
+img: bloczek.jpg
+---
+Oblicz przyspieszenie układu przedstawionego na rysunku. Obliczenia
+przeprowadź dla m1 = [1;3] i m2 = [3;5] kg.
+
+a1 = 10*(m2-m1)/(m1+m2)
+---

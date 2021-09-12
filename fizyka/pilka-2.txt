@@ -1,0 +1,14 @@
+---
+type: EqEx
+name: Piłka 2
+---
+Chłopiec kopnął piłkę pod kątem a1 = [40;50] stopni do poziomu z
+prędkością v0 = [10;15] m/s. Piłka uderzyla w ścianę znajdującą się w
+odległości l1 = [3;4] m od chłopca. Z jaką prędkością piłka uderzyla w
+ścianę?
+
+a1 = a1*Math.PI/180
+vy = v0*Math.sin(a1)-10*l1/(v0*Math.cos(a1))
+vx = v0*Math.cos(a1)
+vk = Math.sqrt(vy*vy+vx*vx)
+---

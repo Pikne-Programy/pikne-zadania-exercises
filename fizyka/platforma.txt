@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Platforma
+img: platforma.jpg
+---
+Oblicz, z jakim maksymalnym przyspieszeniem może poruszać się
+platforma, aby kreda z niej nie spadła, jeżeli współczynnik tarcia
+wynosi f1 = [0.1;0.6]. Przyjmij g = 10 m/s^2.
+
+a1 = f1*10
+---

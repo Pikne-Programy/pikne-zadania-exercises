@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Krążek
+---
+Krążek hokejowy poruszał się z prędkością v0 = [5;15] m/s i zatrzymał
+się po przebyciu odległości l1 = [40;60] m. Oblicz współczynnik tarcia
+krążka o lód. Przyjmij g = 10 m/s^2.
+
+fk = v0*v0/(2*l1*10)
+---

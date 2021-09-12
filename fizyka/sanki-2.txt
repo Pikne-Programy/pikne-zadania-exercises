@@ -1,0 +1,15 @@
+---
+type: EqEx
+name: Sanki 1
+---
+Wojtek ciągnie sanki o masie m1 = [20;30] kg po poziomej powierzchni
+siłą F1 = [250;400] N trzymając za linkę, która tworzy z poziomem kąt
+k1 = [20;30] stopni. Po jakim czasie sanki osiągną prędkość v1 = [2;5] m/s
+jeżeli współczynnik tarcia sanek o lód wynosi f1 = 0.2. Przyjmij
+g = 10m/s^2.
+
+N1 = m1*10-F1*Math.sin(k1*Math.PI/180)
+T1 = 0.2*N1
+a1 = (F1*Math.cos(k1*Math.PI/180)-T1)/m1
+t1 = v1/a1
+---

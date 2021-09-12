@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: Pocisk 1
+---
+Oblicz prędkość początkową kuli, wylatującej z lufy skierowanej pod
+kątem a1 = [20;40] stopni do poziomu, jeżeli upadła ona w odległości
+l1 = [10000;15000] m, a opór powietrza zmniejszył zasięg pięciokrotnie.
+
+v0 = Math.sqrt((5*10*l1)/(Math.sin(2*(a1*Math.PI/180))))
+---

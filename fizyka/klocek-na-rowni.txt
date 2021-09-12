@@ -1,0 +1,11 @@
+---
+type: EqEx
+name: Klocek na równi
+---
+Oblicz przyspieszenie klocka na równi, dla którego współczynnik tarcia
+statycznego wynosi fs = [0.4;0.5] a kinetycznego fk = [0.2;0.35]. Równię
+ustawiono pod kątem, przy którym ciało zaczyna się zsuwać.
+
+a1 = Math.atan(fs)
+a2 = 10*(Math.sin(a1)-Math.cos(a1)*fk)
+---

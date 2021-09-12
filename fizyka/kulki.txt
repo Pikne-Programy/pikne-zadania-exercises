@@ -1,0 +1,10 @@
+---
+type: EqEx
+name: 4.Kulki
+---
+Dwie kulki o masach m1 = [4e-3;7e-3] kg oraz m2 = [1e-3;3e-3] kg poruszają
+się w kierunkach wzajemnie prostopadłych z prędkościami v1 = [0.5;1] m/s
+i v2 = [1;2] m/s. Oblicz pęd układu.
+
+p1 = Math.sqrt(Math.pow(m1*v1,2)+Math.pow(m2*v2,2))
+---

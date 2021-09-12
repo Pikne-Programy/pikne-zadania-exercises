@@ -1,0 +1,13 @@
+---
+type: EqEx
+name: Dwie powierzchnie
+---
+Ciało o masie m1 = [1;3] kg porusza się z prędkością v1 = [4;6] m/s pod
+wpływem stałej siły F ruchem jednostajnym po poziomej powierzchni, dla
+której współczynnik tarcia f1 = [0.1;0.2]. W pewnej chwili ciało
+przemieściło się na inną poziomą powierzchnię o współczynniku tarcia
+f2 = [0.3;0.5]. Jaką drogę przebędzie ciało po drugiej powierzchni do
+zatrzymania?
+
+s1 = v1*v1/(2*10*(f2-f1))
+---
